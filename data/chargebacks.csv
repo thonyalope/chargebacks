@@ -1,0 +1,2001 @@
+TransactionID,CustomerID,ProductID,TransactionDate,Amount,ChargebackStatus,ChargebackReason,Country,City
+1,276,13,2024-01-30,853.75,No,,Peru,Arequipa
+2,362,52,2023-09-11,993.7,No,,Peru,Cusco
+3,180,12,2024-02-08,606.82,No,,Colombia,Medellín
+4,313,68,2023-07-06,324.47,No,,Peru,Cusco
+5,119,73,2024-03-16,506.58,No,,Costa Rica,Cartago
+6,135,79,2024-02-02,351.19,No,,Peru,Lima
+7,458,65,2024-06-20,996.1,No,,Peru,Lima
+8,367,85,2023-04-19,312.07,No,,Brazil,São Paulo
+9,247,12,2024-03-15,297.52,No,,Argentina,Córdoba
+10,455,93,2024-02-26,283.0,No,,Mexico,Guadalajara
+11,396,8,2023-05-26,485.9,No,,Chile,Concepción
+12,39,72,2023-10-13,887.32,No,,Costa Rica,Cartago
+13,2,47,2024-03-03,507.57,No,,Brazil,Rio de Janeiro
+14,43,78,2023-11-06,412.24,No,,Colombia,Cali
+15,443,21,2023-09-18,638.13,No,,Chile,Santiago
+16,144,91,2024-03-24,618.13,No,,Costa Rica,San José
+17,391,75,2023-04-20,952.81,No,,Mexico,Mexico City
+18,236,33,2023-04-20,962.95,No,,Argentina,Buenos Aires
+19,292,19,2023-03-14,732.39,No,,Peru,Cusco
+20,175,47,2023-09-15,374.13,No,,Argentina,Rosario
+21,233,81,2023-12-23,615.7,No,,Uruguay,Montevideo
+22,471,48,2023-01-01,70.8,No,,Peru,Arequipa
+23,327,81,2023-02-12,729.79,No,,Costa Rica,San José
+24,104,50,2024-02-21,49.3,No,,Uruguay,Punta del Este
+25,73,14,2023-04-11,889.56,No,,Argentina,Córdoba
+26,86,75,2023-11-23,333.86,No,,Argentina,Buenos Aires
+27,71,7,2023-02-02,737.42,No,,Peru,Cusco
+28,266,93,2023-05-02,895.09,No,,Uruguay,Montevideo
+29,147,10,2024-03-11,302.29,No,,Argentina,Córdoba
+30,166,78,2024-04-17,463.06,No,,Mexico,Mexico City
+31,3,56,2023-11-25,940.83,No,,Chile,Concepción
+32,132,56,2023-06-29,143.98,No,,Peru,Arequipa
+33,494,27,2023-04-15,336.78,No,,Costa Rica,Alajuela
+34,229,95,2024-05-24,865.76,No,,Costa Rica,San José
+35,102,48,2024-05-24,386.76,No,,Uruguay,Salto
+36,15,35,2023-05-26,467.16,No,,Brazil,Brasília
+37,192,79,2023-03-21,486.94,No,,Uruguay,Montevideo
+38,370,87,2023-07-19,122.53,No,,Mexico,Guadalajara
+39,11,98,2024-06-08,332.84,No,,Costa Rica,San José
+40,234,40,2024-01-23,492.68,No,,Venezuela,Maracaibo
+41,442,14,2024-04-27,817.13,No,,Venezuela,Caracas
+42,56,38,2023-01-17,196.24,No,,Brazil,Rio de Janeiro
+43,287,40,2023-01-19,241.83,No,,Chile,Concepción
+44,21,12,2023-04-26,219.54,No,,Argentina,Rosario
+45,6,64,2024-06-30,458.82,No,,Peru,Arequipa
+46,62,21,2023-12-22,184.55,No,,Uruguay,Salto
+47,489,53,2024-03-19,598.87,No,,Argentina,Buenos Aires
+48,220,48,2024-03-28,212.47,No,,Costa Rica,San José
+49,487,54,2023-05-25,626.62,No,,Colombia,Bogotá
+50,417,27,2023-02-18,476.77,No,,Colombia,Bogotá
+51,432,76,2023-05-31,851.12,No,,Brazil,Brasília
+52,291,3,2023-12-25,701.34,No,,Costa Rica,Alajuela
+53,121,12,2023-05-14,154.96,No,,Venezuela,Valencia
+54,464,18,2024-01-01,222.82,No,,Uruguay,Salto
+55,473,38,2023-12-02,167.15,No,,Costa Rica,Cartago
+56,279,69,2023-09-07,840.27,No,,Chile,Concepción
+57,67,25,2024-06-08,669.54,No,,Chile,Valparaíso
+58,495,28,2024-04-01,496.4,No,,Costa Rica,San José
+59,25,82,2023-01-25,92.58,No,,Brazil,Brasília
+60,374,3,2023-06-06,878.37,No,,Venezuela,Caracas
+61,109,3,2024-06-15,905.95,No,,Brazil,São Paulo
+62,43,67,2023-09-15,611.19,No,,Peru,Lima
+63,177,82,2023-03-10,582.27,No,,Costa Rica,San José
+64,397,29,2023-07-24,758.75,No,,Venezuela,Maracaibo
+65,252,59,2023-03-04,55.96,No,,Venezuela,Maracaibo
+66,52,76,2023-12-25,212.09,No,,Peru,Arequipa
+67,490,39,2023-06-29,784.09,No,,Venezuela,Caracas
+68,103,41,2023-05-15,321.87,No,,Uruguay,Punta del Este
+69,3,62,2023-02-05,994.68,No,,Venezuela,Maracaibo
+70,75,22,2023-11-25,634.49,No,,Uruguay,Punta del Este
+71,159,98,2024-06-10,853.19,No,,Venezuela,Maracaibo
+72,105,43,2023-05-18,746.67,No,,Chile,Valparaíso
+73,237,24,2024-02-16,402.27,No,,Brazil,São Paulo
+74,92,61,2024-05-28,836.0,No,,Costa Rica,Alajuela
+75,341,69,2024-05-20,272.52,No,,Mexico,Monterrey
+76,448,39,2024-06-28,886.29,No,,Costa Rica,Cartago
+77,481,25,2023-03-08,637.03,No,,Mexico,Monterrey
+78,422,66,2024-01-18,688.96,No,,Uruguay,Punta del Este
+79,289,87,2024-04-23,373.91,No,,Peru,Lima
+80,491,6,2023-11-27,155.59,No,,Peru,Lima
+81,100,88,2023-05-30,128.53,No,,Chile,Santiago
+82,416,38,2023-08-07,221.92,No,,Chile,Valparaíso
+83,136,94,2023-03-19,808.11,No,,Chile,Valparaíso
+84,453,67,2024-04-27,835.25,No,,Peru,Cusco
+85,265,8,2023-07-09,43.26,No,,Uruguay,Punta del Este
+86,84,85,2023-09-20,904.73,No,,Costa Rica,Alajuela
+87,373,56,2023-01-27,777.91,No,,Brazil,Rio de Janeiro
+88,155,29,2024-01-08,558.1,No,,Uruguay,Salto
+89,3,65,2023-12-27,790.73,No,,Costa Rica,San José
+90,168,84,2023-12-29,837.74,No,,Colombia,Medellín
+91,228,31,2024-01-31,713.05,No,,Brazil,Rio de Janeiro
+92,280,8,2024-02-09,221.11,No,,Mexico,Mexico City
+93,12,33,2024-01-16,493.58,No,,Brazil,São Paulo
+94,410,42,2023-07-12,922.4,No,,Uruguay,Punta del Este
+95,353,69,2023-07-01,424.58,No,,Venezuela,Valencia
+96,101,72,2024-03-09,681.24,No,,Mexico,Guadalajara
+97,395,6,2024-01-27,727.32,No,,Peru,Lima
+98,271,13,2024-03-28,958.55,No,,Costa Rica,San José
+99,70,54,2023-10-25,174.42,No,,Mexico,Monterrey
+100,218,75,2023-05-05,201.84,No,,Brazil,São Paulo
+101,293,41,2023-01-14,886.9,No,,Venezuela,Maracaibo
+102,198,44,2023-10-21,267.58,No,,Colombia,Cali
+103,51,81,2023-04-19,533.39,No,,Venezuela,Valencia
+104,330,56,2023-01-31,122.98,No,,Brazil,São Paulo
+105,20,17,2023-04-10,551.2,No,,Uruguay,Montevideo
+106,459,52,2023-06-15,380.78,No,,Chile,Concepción
+107,91,98,2023-12-14,123.68,No,,Mexico,Monterrey
+108,303,95,2023-10-25,740.07,No,,Venezuela,Caracas
+109,453,1,2023-09-29,914.88,No,,Peru,Cusco
+110,351,61,2024-03-27,453.24,No,,Chile,Concepción
+111,296,64,2023-07-26,990.46,No,,Chile,Santiago
+112,388,64,2024-03-23,464.62,No,,Colombia,Bogotá
+113,126,12,2024-04-18,482.72,No,,Chile,Santiago
+114,170,56,2023-10-23,52.32,No,,Chile,Santiago
+115,321,21,2023-07-24,978.81,No,,Brazil,Brasília
+116,434,68,2023-03-02,754.12,No,,Colombia,Cali
+117,26,98,2023-02-13,431.48,No,,Chile,Valparaíso
+118,123,53,2023-11-19,418.1,No,,Uruguay,Salto
+119,152,30,2023-03-28,98.73,No,,Venezuela,Valencia
+120,197,31,2023-10-30,252.11,No,,Brazil,Rio de Janeiro
+121,396,23,2023-12-07,873.66,No,,Brazil,Brasília
+122,339,27,2023-01-28,21.78,No,,Colombia,Bogotá
+123,456,98,2023-10-20,522.87,No,,Argentina,Buenos Aires
+124,362,7,2024-02-12,128.53,No,,Peru,Lima
+125,280,74,2024-03-12,683.61,No,,Peru,Arequipa
+126,85,53,2023-09-01,360.11,No,,Mexico,Guadalajara
+127,132,83,2023-09-01,747.0,No,,Brazil,Brasília
+128,150,52,2024-03-30,83.95,No,,Brazil,Rio de Janeiro
+129,52,82,2024-05-13,17.13,No,,Peru,Lima
+130,16,88,2023-11-08,202.25,No,,Mexico,Guadalajara
+131,287,63,2024-02-22,901.3,No,,Costa Rica,Cartago
+132,362,81,2023-11-20,761.7,No,,Chile,Concepción
+133,307,62,2023-09-29,131.52,No,,Mexico,Guadalajara
+134,299,21,2023-03-10,626.14,No,,Chile,Valparaíso
+135,249,3,2024-04-07,546.79,No,,Colombia,Medellín
+136,326,87,2023-06-16,392.81,No,,Mexico,Mexico City
+137,50,87,2023-11-15,378.08,No,,Costa Rica,Alajuela
+138,432,65,2023-01-20,87.31,No,,Colombia,Bogotá
+139,486,67,2023-08-31,178.35,No,,Venezuela,Valencia
+140,419,82,2023-08-21,821.02,No,,Venezuela,Caracas
+141,453,79,2023-05-18,93.45,No,,Argentina,Buenos Aires
+142,189,29,2023-11-28,454.4,No,,Brazil,Rio de Janeiro
+143,360,27,2024-06-01,375.89,No,,Mexico,Mexico City
+144,492,77,2023-09-11,376.83,No,,Peru,Lima
+145,140,73,2024-05-14,995.27,No,,Chile,Concepción
+146,267,68,2024-04-02,440.49,No,,Chile,Concepción
+147,256,28,2024-03-25,614.06,No,,Mexico,Mexico City
+148,316,91,2024-02-18,102.14,No,,Venezuela,Maracaibo
+149,301,59,2023-12-10,736.45,No,,Costa Rica,Alajuela
+150,33,34,2023-12-16,860.64,No,,Chile,Valparaíso
+151,381,16,2023-06-15,937.01,No,,Mexico,Mexico City
+152,210,19,2023-01-23,320.91,No,,Brazil,Rio de Janeiro
+153,33,48,2023-07-27,427.1,No,,Argentina,Buenos Aires
+154,283,67,2023-01-13,171.47,No,,Peru,Arequipa
+155,411,75,2023-04-18,908.06,No,,Mexico,Guadalajara
+156,296,99,2023-10-02,405.45,No,,Mexico,Monterrey
+157,218,19,2023-08-30,207.95,No,,Chile,Concepción
+158,61,97,2023-11-24,736.75,No,,Colombia,Medellín
+159,84,9,2024-06-06,501.8,No,,Venezuela,Caracas
+160,389,75,2023-10-31,965.99,No,,Mexico,Monterrey
+161,140,30,2023-01-15,317.69,No,,Peru,Arequipa
+162,12,81,2023-11-15,85.36,No,,Mexico,Monterrey
+163,368,86,2024-05-08,495.72,No,,Brazil,São Paulo
+164,148,29,2024-01-26,836.66,No,,Costa Rica,Cartago
+165,210,89,2024-03-10,56.35,No,,Costa Rica,Alajuela
+166,418,75,2024-06-14,206.56,No,,Uruguay,Salto
+167,188,79,2024-01-21,72.43,No,,Mexico,Mexico City
+168,373,30,2024-04-04,467.4,No,,Mexico,Mexico City
+169,125,48,2023-08-04,603.88,No,,Venezuela,Valencia
+170,457,24,2023-12-07,235.95,No,,Mexico,Monterrey
+171,80,58,2023-03-25,562.63,No,,Mexico,Guadalajara
+172,357,66,2023-06-10,788.33,No,,Brazil,Rio de Janeiro
+173,154,93,2024-06-12,470.42,No,,Colombia,Bogotá
+174,280,2,2023-04-14,932.71,No,,Costa Rica,Cartago
+175,146,28,2024-04-10,629.21,No,,Uruguay,Montevideo
+176,14,59,2024-02-19,825.55,No,,Brazil,Rio de Janeiro
+177,326,48,2023-11-17,993.37,No,,Brazil,São Paulo
+178,236,2,2024-01-29,639.37,No,,Argentina,Rosario
+179,265,31,2024-05-27,249.41,No,,Uruguay,Montevideo
+180,335,92,2023-09-15,624.2,No,,Costa Rica,San José
+181,180,70,2023-11-15,698.61,No,,Brazil,São Paulo
+182,12,8,2024-01-28,605.77,No,,Argentina,Córdoba
+183,428,64,2023-02-12,8.14,No,,Mexico,Mexico City
+184,222,58,2023-04-30,270.43,No,,Uruguay,Montevideo
+185,411,93,2023-08-14,752.0,No,,Mexico,Guadalajara
+186,150,92,2024-05-13,747.56,No,,Costa Rica,San José
+187,249,99,2024-02-19,375.37,No,,Chile,Santiago
+188,470,65,2023-05-09,186.33,No,,Colombia,Cali
+189,25,26,2023-02-18,844.79,No,,Brazil,Rio de Janeiro
+190,126,92,2024-06-21,583.8,No,,Colombia,Medellín
+191,480,100,2023-07-13,267.33,No,,Uruguay,Salto
+192,496,59,2023-10-12,847.96,No,,Argentina,Rosario
+193,255,15,2023-02-08,483.61,No,,Peru,Lima
+194,407,56,2023-03-08,856.2,No,,Costa Rica,Cartago
+195,419,39,2023-02-20,954.58,No,,Colombia,Cali
+196,208,65,2023-07-08,959.29,No,,Argentina,Córdoba
+197,74,56,2024-01-30,505.57,No,,Chile,Concepción
+198,54,51,2023-06-27,734.56,No,,Colombia,Medellín
+199,23,52,2023-02-10,651.6,No,,Colombia,Cali
+200,62,92,2023-08-07,65.98,No,,Peru,Cusco
+201,105,69,2023-02-01,806.41,No,,Chile,Concepción
+202,356,45,2024-01-29,632.5,No,,Peru,Cusco
+203,99,27,2023-09-02,370.36,No,,Venezuela,Valencia
+204,139,30,2024-01-22,253.45,No,,Colombia,Bogotá
+205,434,41,2023-04-04,880.85,No,,Brazil,Rio de Janeiro
+206,55,97,2023-02-19,246.73,No,,Argentina,Rosario
+207,129,64,2023-07-14,757.06,No,,Brazil,Brasília
+208,399,42,2023-05-14,892.19,No,,Argentina,Buenos Aires
+209,122,71,2023-02-27,156.89,No,,Brazil,Rio de Janeiro
+210,103,24,2023-10-09,438.37,No,,Brazil,Rio de Janeiro
+211,315,90,2023-09-07,844.14,No,,Argentina,Córdoba
+212,91,52,2023-04-14,391.97,No,,Brazil,São Paulo
+213,335,17,2024-01-26,81.47,No,,Costa Rica,San José
+214,475,39,2023-01-05,382.2,No,,Colombia,Medellín
+215,162,57,2023-02-03,766.71,No,,Mexico,Monterrey
+216,243,52,2023-01-03,608.41,No,,Uruguay,Salto
+217,318,5,2023-10-23,381.81,No,,Peru,Cusco
+218,308,91,2024-04-22,990.33,No,,Brazil,Brasília
+219,228,86,2023-03-16,619.23,No,,Peru,Cusco
+220,449,40,2024-03-29,743.93,No,,Brazil,Brasília
+221,38,75,2023-02-13,459.6,No,,Peru,Cusco
+222,88,48,2023-03-22,146.66,No,,Brazil,São Paulo
+223,379,10,2023-03-25,872.43,No,,Argentina,Córdoba
+224,245,36,2023-01-21,755.92,No,,Peru,Lima
+225,76,18,2024-01-20,475.91,No,,Venezuela,Valencia
+226,476,58,2023-02-23,507.46,No,,Peru,Arequipa
+227,249,17,2023-03-21,278.06,No,,Venezuela,Maracaibo
+228,104,43,2023-08-11,247.78,No,,Chile,Valparaíso
+229,229,76,2023-06-14,181.62,No,,Chile,Valparaíso
+230,303,81,2023-07-06,347.32,No,,Colombia,Medellín
+231,67,61,2023-09-25,851.93,No,,Costa Rica,San José
+232,392,62,2024-05-04,194.75,No,,Argentina,Córdoba
+233,313,72,2024-05-25,268.14,No,,Uruguay,Punta del Este
+234,309,61,2024-01-20,238.95,No,,Argentina,Córdoba
+235,200,5,2023-12-30,990.64,No,,Costa Rica,Cartago
+236,246,52,2024-03-15,550.44,No,,Mexico,Monterrey
+237,41,91,2024-01-31,866.38,No,,Colombia,Bogotá
+238,319,55,2024-02-16,951.7,No,,Mexico,Mexico City
+239,95,29,2023-08-17,969.4,No,,Brazil,Brasília
+240,413,49,2023-12-03,83.57,No,,Costa Rica,Alajuela
+241,287,17,2023-02-04,324.71,No,,Uruguay,Montevideo
+242,498,18,2024-04-15,605.61,No,,Colombia,Medellín
+243,163,18,2024-05-27,355.8,No,,Mexico,Mexico City
+244,454,53,2023-01-19,145.71,No,,Chile,Santiago
+245,307,64,2024-03-01,851.68,No,,Venezuela,Maracaibo
+246,238,96,2023-01-13,799.65,No,,Venezuela,Maracaibo
+247,275,15,2023-07-31,128.78,No,,Brazil,São Paulo
+248,466,15,2024-06-08,448.13,No,,Colombia,Cali
+249,312,84,2023-06-22,163.61,No,,Uruguay,Salto
+250,293,49,2023-11-01,368.22,No,,Uruguay,Punta del Este
+251,153,28,2023-07-27,536.63,No,,Venezuela,Maracaibo
+252,349,68,2024-03-07,368.56,No,,Mexico,Mexico City
+253,124,91,2023-02-14,364.03,No,,Costa Rica,Alajuela
+254,63,49,2024-04-08,476.45,No,,Mexico,Monterrey
+255,256,22,2023-11-10,385.7,No,,Brazil,Rio de Janeiro
+256,193,72,2023-06-30,587.1,No,,Colombia,Bogotá
+257,258,30,2024-02-21,714.46,No,,Argentina,Córdoba
+258,499,99,2023-08-21,768.25,No,,Brazil,São Paulo
+259,172,62,2024-01-08,940.94,No,,Chile,Valparaíso
+260,38,71,2024-06-16,735.69,No,,Brazil,Rio de Janeiro
+261,357,45,2023-07-28,789.08,No,,Peru,Cusco
+262,110,94,2023-12-28,274.46,No,,Chile,Valparaíso
+263,438,40,2023-05-10,344.44,No,,Chile,Valparaíso
+264,96,2,2024-06-02,339.77,No,,Uruguay,Salto
+265,445,95,2023-07-08,691.29,No,,Chile,Valparaíso
+266,435,26,2023-07-11,325.48,No,,Brazil,Rio de Janeiro
+267,497,18,2023-08-04,249.6,No,,Mexico,Guadalajara
+268,255,90,2024-01-13,389.67,No,,Chile,Valparaíso
+269,102,41,2024-06-02,638.73,No,,Mexico,Mexico City
+270,424,44,2024-03-02,271.76,No,,Colombia,Medellín
+271,438,33,2023-05-29,170.37,No,,Argentina,Rosario
+272,23,26,2024-02-29,734.22,No,,Peru,Lima
+273,277,75,2023-06-25,104.53,No,,Costa Rica,San José
+274,240,53,2024-02-24,656.43,No,,Chile,Concepción
+275,452,40,2024-01-09,169.11,No,,Colombia,Bogotá
+276,314,96,2023-01-03,775.86,No,,Chile,Santiago
+277,410,100,2023-03-26,45.63,No,,Uruguay,Montevideo
+278,398,85,2024-06-05,756.25,No,,Venezuela,Valencia
+279,268,39,2023-08-06,662.61,No,,Argentina,Rosario
+280,134,48,2024-02-25,678.92,No,,Venezuela,Valencia
+281,51,28,2023-08-11,773.29,No,,Brazil,Brasília
+282,57,90,2023-08-04,784.67,No,,Costa Rica,San José
+283,410,15,2024-04-03,840.07,No,,Chile,Valparaíso
+284,21,77,2023-02-21,992.71,No,,Colombia,Bogotá
+285,318,75,2023-05-26,18.14,No,,Colombia,Bogotá
+286,372,80,2023-01-16,893.61,No,,Peru,Arequipa
+287,142,75,2023-09-27,666.67,No,,Colombia,Medellín
+288,223,11,2024-04-19,614.74,No,,Costa Rica,San José
+289,184,71,2023-06-06,956.85,No,,Venezuela,Maracaibo
+290,89,46,2024-06-30,674.91,No,,Peru,Arequipa
+291,131,69,2024-02-04,554.16,No,,Peru,Arequipa
+292,391,21,2023-04-04,508.66,No,,Chile,Valparaíso
+293,351,4,2023-02-27,214.92,No,,Peru,Arequipa
+294,355,17,2023-03-13,602.02,No,,Chile,Santiago
+295,252,23,2023-11-03,291.82,No,,Mexico,Monterrey
+296,98,47,2023-08-27,65.76,No,,Venezuela,Caracas
+297,408,36,2024-04-19,508.97,No,,Colombia,Cali
+298,447,23,2024-06-02,352.29,No,,Colombia,Medellín
+299,2,80,2023-12-19,161.8,No,,Argentina,Buenos Aires
+300,203,39,2023-04-19,147.23,No,,Venezuela,Maracaibo
+301,228,71,2023-03-02,60.97,No,,Chile,Concepción
+302,120,17,2023-05-15,107.76,No,,Brazil,Brasília
+303,302,75,2023-05-14,460.58,No,,Colombia,Bogotá
+304,111,60,2024-02-19,356.56,No,,Costa Rica,San José
+305,453,31,2023-08-21,875.22,No,,Brazil,Brasília
+306,85,66,2024-03-27,367.91,No,,Chile,Concepción
+307,82,48,2024-05-23,294.93,No,,Venezuela,Valencia
+308,203,63,2024-03-02,498.98,No,,Venezuela,Valencia
+309,342,53,2023-04-14,432.42,No,,Chile,Valparaíso
+310,389,61,2023-08-08,25.69,No,,Brazil,Rio de Janeiro
+311,303,88,2023-04-27,660.66,No,,Peru,Lima
+312,138,44,2024-06-14,205.15,No,,Uruguay,Salto
+313,193,75,2024-06-13,965.6,No,,Colombia,Medellín
+314,85,87,2023-01-31,177.75,No,,Colombia,Bogotá
+315,417,8,2024-03-04,412.56,No,,Brazil,Rio de Janeiro
+316,171,25,2024-06-14,695.86,No,,Argentina,Rosario
+317,395,42,2023-05-06,98.98,No,,Argentina,Buenos Aires
+318,75,7,2024-01-28,807.69,No,,Chile,Valparaíso
+319,32,1,2023-12-01,776.08,No,,Argentina,Córdoba
+320,481,15,2023-10-11,363.46,No,,Colombia,Medellín
+321,31,31,2024-02-16,51.67,No,,Brazil,Brasília
+322,488,29,2024-02-07,686.65,No,,Brazil,Rio de Janeiro
+323,135,13,2023-06-15,953.28,No,,Brazil,Brasília
+324,206,6,2024-06-26,438.81,No,,Chile,Santiago
+325,18,12,2024-02-27,468.58,No,,Brazil,Brasília
+326,293,100,2023-01-15,955.81,No,,Argentina,Rosario
+327,242,29,2023-08-17,451.56,No,,Colombia,Medellín
+328,216,35,2023-08-09,838.32,No,,Colombia,Bogotá
+329,423,81,2023-09-13,589.43,No,,Uruguay,Punta del Este
+330,274,100,2023-05-24,622.8,No,,Mexico,Monterrey
+331,220,53,2024-06-23,672.81,No,,Uruguay,Salto
+332,351,57,2023-04-19,382.14,No,,Argentina,Córdoba
+333,241,63,2023-07-07,55.15,No,,Costa Rica,San José
+334,151,99,2023-08-20,924.13,No,,Chile,Concepción
+335,166,94,2023-08-03,725.61,No,,Colombia,Medellín
+336,330,66,2023-08-21,732.23,No,,Costa Rica,Cartago
+337,447,96,2024-02-27,141.82,No,,Argentina,Buenos Aires
+338,173,8,2024-06-01,783.66,No,,Peru,Cusco
+339,22,49,2023-11-17,123.71,No,,Uruguay,Montevideo
+340,266,87,2023-11-02,329.41,No,,Colombia,Cali
+341,420,14,2023-05-31,740.07,No,,Chile,Santiago
+342,212,31,2023-10-12,144.2,No,,Colombia,Bogotá
+343,113,39,2023-03-23,55.72,No,,Peru,Lima
+344,82,74,2023-01-29,82.49,No,,Venezuela,Maracaibo
+345,371,12,2024-04-10,771.4,No,,Chile,Valparaíso
+346,378,34,2023-10-02,555.59,No,,Argentina,Rosario
+347,428,60,2023-04-06,673.83,No,,Venezuela,Caracas
+348,392,90,2024-05-18,938.45,No,,Colombia,Medellín
+349,32,4,2023-02-07,418.56,No,,Peru,Lima
+350,459,94,2024-04-17,31.51,No,,Uruguay,Salto
+351,235,73,2024-05-23,65.17,No,,Brazil,São Paulo
+352,7,33,2023-10-20,481.51,No,,Argentina,Córdoba
+353,284,45,2023-02-07,725.08,No,,Venezuela,Maracaibo
+354,494,27,2023-06-15,907.13,No,,Argentina,Buenos Aires
+355,94,7,2023-10-01,912.46,No,,Uruguay,Salto
+356,302,2,2024-03-21,770.25,No,,Mexico,Guadalajara
+357,480,92,2023-07-30,239.65,No,,Brazil,São Paulo
+358,152,48,2023-02-03,82.03,No,,Venezuela,Valencia
+359,181,21,2024-03-18,53.3,No,,Colombia,Medellín
+360,356,88,2023-09-06,300.84,No,,Uruguay,Punta del Este
+361,409,94,2023-05-28,713.84,No,,Chile,Valparaíso
+362,223,38,2023-01-11,21.85,No,,Costa Rica,Alajuela
+363,418,34,2023-10-02,273.69,No,,Brazil,Brasília
+364,304,24,2023-01-20,912.91,No,,Brazil,Brasília
+365,34,3,2023-03-18,962.08,No,,Mexico,Mexico City
+366,66,62,2024-06-14,30.64,No,,Costa Rica,Alajuela
+367,128,73,2023-08-03,820.14,No,,Argentina,Buenos Aires
+368,496,75,2024-04-14,53.32,No,,Mexico,Guadalajara
+369,446,41,2023-04-08,532.87,No,,Peru,Arequipa
+370,303,75,2024-01-24,431.6,No,,Costa Rica,Alajuela
+371,296,54,2023-04-24,638.91,No,,Mexico,Guadalajara
+372,120,76,2024-02-01,387.09,No,,Brazil,Rio de Janeiro
+373,368,47,2024-01-10,345.56,No,,Peru,Lima
+374,460,21,2023-09-27,30.38,No,,Mexico,Guadalajara
+375,375,90,2023-11-21,724.24,No,,Venezuela,Valencia
+376,166,47,2023-01-22,28.21,No,,Venezuela,Maracaibo
+377,199,95,2023-03-27,918.19,No,,Venezuela,Caracas
+378,113,85,2023-12-28,370.41,No,,Mexico,Monterrey
+379,24,67,2024-06-02,631.4,No,,Costa Rica,Cartago
+380,167,83,2024-05-23,546.92,No,,Brazil,Rio de Janeiro
+381,300,83,2024-02-13,14.62,No,,Costa Rica,Alajuela
+382,184,68,2023-02-14,172.54,No,,Brazil,Rio de Janeiro
+383,38,92,2024-05-20,10.24,No,,Mexico,Mexico City
+384,260,100,2023-12-08,999.2,No,,Venezuela,Valencia
+385,141,88,2023-01-28,79.32,No,,Costa Rica,Cartago
+386,356,95,2023-06-13,15.16,No,,Peru,Arequipa
+387,115,97,2024-06-07,948.65,No,,Chile,Valparaíso
+388,350,3,2024-03-09,131.23,No,,Costa Rica,San José
+389,74,4,2024-03-27,932.77,No,,Peru,Lima
+390,150,21,2024-03-08,750.75,No,,Mexico,Guadalajara
+391,239,45,2023-05-06,521.05,No,,Argentina,Rosario
+392,113,23,2023-03-14,411.92,No,,Brazil,São Paulo
+393,186,26,2024-03-02,172.93,No,,Costa Rica,Cartago
+394,338,69,2023-07-13,812.07,No,,Venezuela,Valencia
+395,209,67,2024-06-04,921.52,No,,Colombia,Cali
+396,321,25,2023-04-13,582.37,No,,Brazil,Brasília
+397,403,43,2024-01-30,493.04,No,,Mexico,Guadalajara
+398,402,50,2024-02-08,163.31,No,,Costa Rica,Alajuela
+399,34,9,2023-05-02,544.69,No,,Chile,Concepción
+400,434,81,2024-06-03,356.53,No,,Mexico,Mexico City
+401,209,70,2023-07-01,985.49,No,,Mexico,Monterrey
+402,166,59,2023-10-28,875.85,No,,Peru,Arequipa
+403,110,69,2024-03-31,189.14,No,,Chile,Valparaíso
+404,360,29,2023-09-28,662.19,No,,Costa Rica,San José
+405,480,60,2023-08-17,716.57,No,,Costa Rica,Cartago
+406,487,82,2024-02-12,339.43,No,,Argentina,Córdoba
+407,78,41,2023-10-04,867.47,No,,Chile,Concepción
+408,117,78,2023-11-11,552.0,No,,Brazil,Rio de Janeiro
+409,5,78,2023-09-13,94.84,No,,Chile,Concepción
+410,184,21,2023-01-29,255.75,No,,Venezuela,Caracas
+411,46,90,2023-01-29,35.79,No,,Brazil,Brasília
+412,370,70,2024-01-07,772.6,No,,Argentina,Buenos Aires
+413,422,88,2023-04-26,578.99,No,,Uruguay,Punta del Este
+414,210,37,2023-07-30,321.72,No,,Colombia,Bogotá
+415,191,69,2023-12-16,910.98,No,,Costa Rica,San José
+416,346,61,2024-02-07,441.38,No,,Uruguay,Salto
+417,172,49,2024-04-08,378.39,No,,Uruguay,Montevideo
+418,357,63,2023-05-11,887.06,No,,Brazil,Rio de Janeiro
+419,211,63,2023-12-09,310.45,No,,Peru,Lima
+420,393,99,2024-05-08,396.74,No,,Mexico,Guadalajara
+421,39,83,2023-09-25,883.48,No,,Argentina,Buenos Aires
+422,23,9,2023-08-29,583.45,No,,Costa Rica,San José
+423,413,32,2023-07-01,871.72,No,,Uruguay,Montevideo
+424,22,88,2023-09-04,507.0,No,,Brazil,Rio de Janeiro
+425,286,27,2024-04-23,158.78,No,,Peru,Lima
+426,390,88,2024-02-22,998.57,No,,Costa Rica,Alajuela
+427,58,36,2023-02-18,225.33,No,,Costa Rica,Cartago
+428,482,65,2023-02-23,525.83,No,,Chile,Valparaíso
+429,224,88,2024-05-27,452.89,No,,Venezuela,Valencia
+430,413,77,2023-06-21,459.7,No,,Colombia,Cali
+431,459,12,2023-06-03,555.0,No,,Chile,Santiago
+432,81,24,2024-03-07,404.01,No,,Venezuela,Valencia
+433,478,28,2023-07-25,41.09,No,,Peru,Arequipa
+434,199,45,2023-08-19,906.33,No,,Costa Rica,Alajuela
+435,449,37,2024-02-14,299.13,No,,Costa Rica,Alajuela
+436,358,6,2024-01-04,699.93,No,,Mexico,Monterrey
+437,83,27,2024-04-02,108.75,No,,Peru,Lima
+438,290,70,2023-06-12,312.0,No,,Peru,Arequipa
+439,299,95,2023-09-04,290.52,No,,Costa Rica,San José
+440,154,46,2024-06-10,242.82,No,,Uruguay,Punta del Este
+441,277,41,2024-05-30,835.18,No,,Venezuela,Caracas
+442,77,74,2024-05-28,325.05,No,,Brazil,São Paulo
+443,391,44,2023-02-10,315.11,No,,Uruguay,Punta del Este
+444,363,78,2023-01-06,513.63,No,,Peru,Cusco
+445,363,21,2023-06-15,327.67,No,,Chile,Valparaíso
+446,189,90,2023-02-22,211.43,No,,Peru,Arequipa
+447,358,66,2023-12-15,562.16,No,,Mexico,Monterrey
+448,128,71,2024-05-17,222.33,No,,Peru,Cusco
+449,293,49,2023-05-12,590.27,No,,Costa Rica,San José
+450,473,94,2023-03-03,591.33,No,,Argentina,Rosario
+451,167,23,2023-08-02,18.52,No,,Peru,Cusco
+452,420,3,2024-06-02,52.02,No,,Argentina,Rosario
+453,393,62,2023-12-22,207.08,No,,Brazil,Rio de Janeiro
+454,184,46,2023-03-17,642.0,No,,Venezuela,Maracaibo
+455,328,31,2023-01-13,32.24,No,,Argentina,Buenos Aires
+456,154,43,2023-06-03,761.84,No,,Argentina,Córdoba
+457,130,32,2024-03-26,402.65,No,,Colombia,Medellín
+458,224,51,2024-03-06,555.15,No,,Mexico,Guadalajara
+459,15,20,2023-03-27,534.22,No,,Chile,Concepción
+460,262,94,2023-11-09,951.44,No,,Colombia,Bogotá
+461,422,22,2024-04-04,272.45,No,,Chile,Concepción
+462,310,32,2024-01-05,969.4,No,,Argentina,Rosario
+463,39,27,2023-11-06,856.67,No,,Argentina,Rosario
+464,447,11,2023-03-15,533.76,No,,Costa Rica,Cartago
+465,185,67,2023-04-11,711.68,No,,Peru,Lima
+466,241,49,2023-09-21,762.06,No,,Mexico,Monterrey
+467,87,85,2023-12-05,151.07,No,,Mexico,Mexico City
+468,452,31,2023-01-07,361.3,No,,Venezuela,Maracaibo
+469,341,62,2023-12-11,685.03,No,,Peru,Arequipa
+470,262,52,2023-07-26,839.65,No,,Peru,Arequipa
+471,123,59,2023-03-05,835.93,No,,Costa Rica,San José
+472,42,19,2024-02-15,916.33,No,,Venezuela,Caracas
+473,78,36,2024-01-22,704.16,No,,Brazil,São Paulo
+474,410,21,2024-06-19,993.98,No,,Colombia,Medellín
+475,412,71,2024-06-07,512.65,No,,Chile,Concepción
+476,151,53,2023-03-09,364.17,No,,Venezuela,Caracas
+477,322,99,2023-09-18,688.99,No,,Venezuela,Valencia
+478,104,8,2023-07-21,892.39,No,,Brazil,Rio de Janeiro
+479,4,19,2024-01-26,87.61,No,,Uruguay,Punta del Este
+480,141,73,2023-08-04,85.17,No,,Argentina,Córdoba
+481,67,46,2024-06-01,839.28,No,,Argentina,Buenos Aires
+482,202,32,2023-03-04,409.85,No,,Peru,Lima
+483,31,32,2023-02-09,239.68,No,,Argentina,Córdoba
+484,338,72,2023-01-29,641.74,No,,Venezuela,Caracas
+485,381,82,2024-01-25,609.89,No,,Costa Rica,Cartago
+486,32,49,2023-03-24,726.47,No,,Peru,Cusco
+487,250,78,2024-02-08,678.24,No,,Brazil,Rio de Janeiro
+488,411,2,2023-12-05,286.15,No,,Argentina,Córdoba
+489,229,71,2023-04-06,847.11,No,,Brazil,Rio de Janeiro
+490,462,88,2023-04-08,917.42,No,,Argentina,Córdoba
+491,391,24,2023-07-08,585.98,No,,Costa Rica,Alajuela
+492,5,88,2024-03-15,27.07,No,,Mexico,Mexico City
+493,395,18,2023-03-18,681.44,No,,Mexico,Mexico City
+494,58,65,2023-05-12,408.09,No,,Argentina,Buenos Aires
+495,166,75,2024-02-26,578.06,No,,Chile,Santiago
+496,323,21,2024-05-14,146.52,No,,Colombia,Medellín
+497,316,18,2023-12-23,629.9,No,,Chile,Santiago
+498,284,84,2024-02-23,479.37,No,,Colombia,Bogotá
+499,437,13,2023-10-26,996.39,No,,Uruguay,Punta del Este
+500,465,52,2023-12-20,591.82,No,,Chile,Valparaíso
+501,100,26,2024-01-29,55.71,No,,Argentina,Rosario
+502,323,98,2023-01-21,663.0,No,,Costa Rica,Cartago
+503,458,21,2023-09-20,485.37,No,,Peru,Cusco
+504,103,37,2023-09-28,724.68,No,,Brazil,São Paulo
+505,324,39,2023-10-13,194.89,No,,Mexico,Mexico City
+506,174,49,2023-05-24,164.13,No,,Costa Rica,San José
+507,297,95,2023-07-25,914.61,No,,Mexico,Mexico City
+508,27,100,2023-07-02,518.15,No,,Peru,Cusco
+509,27,23,2024-04-05,951.6,No,,Colombia,Cali
+510,218,14,2023-04-13,609.55,No,,Chile,Concepción
+511,207,18,2023-12-03,516.17,No,,Costa Rica,Alajuela
+512,372,55,2023-03-25,348.3,No,,Colombia,Cali
+513,166,55,2023-08-22,410.42,No,,Chile,Valparaíso
+514,188,13,2023-12-18,406.18,No,,Costa Rica,Cartago
+515,300,24,2023-04-29,556.92,No,,Mexico,Mexico City
+516,94,96,2023-04-11,963.23,No,,Peru,Cusco
+517,232,89,2024-04-02,410.89,No,,Argentina,Córdoba
+518,336,18,2024-03-07,389.9,No,,Mexico,Mexico City
+519,312,30,2023-09-18,739.79,No,,Colombia,Medellín
+520,457,52,2024-01-16,282.5,No,,Peru,Arequipa
+521,471,99,2023-03-03,869.67,No,,Colombia,Medellín
+522,230,85,2023-09-23,703.21,No,,Venezuela,Maracaibo
+523,465,35,2024-04-16,697.56,No,,Brazil,Brasília
+524,68,71,2023-07-03,805.44,No,,Argentina,Rosario
+525,246,68,2024-02-11,206.59,No,,Uruguay,Salto
+526,242,37,2023-06-27,153.31,No,,Colombia,Medellín
+527,461,11,2023-06-26,101.74,No,,Peru,Cusco
+528,164,76,2023-05-29,953.29,No,,Argentina,Córdoba
+529,411,15,2023-04-30,680.49,No,,Argentina,Buenos Aires
+530,413,56,2023-02-06,263.4,No,,Venezuela,Valencia
+531,250,57,2023-12-23,636.3,No,,Chile,Santiago
+532,179,52,2024-05-13,954.21,No,,Venezuela,Maracaibo
+533,153,28,2024-05-01,40.62,No,,Venezuela,Valencia
+534,426,99,2023-02-28,436.36,No,,Uruguay,Salto
+535,221,46,2023-12-03,243.17,No,,Argentina,Buenos Aires
+536,440,73,2023-05-16,281.46,No,,Mexico,Guadalajara
+537,10,8,2023-01-12,33.64,No,,Venezuela,Maracaibo
+538,3,67,2023-08-12,946.74,No,,Argentina,Buenos Aires
+539,309,65,2024-07-01,61.96,No,,Peru,Lima
+540,159,77,2023-07-21,496.14,No,,Uruguay,Punta del Este
+541,199,56,2023-01-27,864.05,No,,Colombia,Bogotá
+542,405,68,2023-05-04,190.42,No,,Uruguay,Salto
+543,24,57,2024-03-13,187.77,No,,Peru,Arequipa
+544,64,2,2024-06-18,557.5,No,,Venezuela,Valencia
+545,414,13,2023-04-27,852.77,No,,Venezuela,Caracas
+546,310,34,2023-04-26,223.71,No,,Peru,Cusco
+547,113,92,2023-10-20,781.28,No,,Argentina,Córdoba
+548,61,80,2023-05-03,679.13,No,,Mexico,Monterrey
+549,445,50,2023-10-26,60.71,No,,Venezuela,Caracas
+550,216,14,2023-03-27,497.14,No,,Venezuela,Maracaibo
+551,112,8,2024-04-14,999.44,No,,Chile,Valparaíso
+552,254,87,2023-09-24,569.2,No,,Mexico,Mexico City
+553,411,75,2023-11-08,138.77,No,,Peru,Lima
+554,328,8,2023-09-18,37.31,No,,Peru,Lima
+555,202,63,2023-04-02,406.46,No,,Chile,Valparaíso
+556,365,61,2024-03-02,400.48,No,,Colombia,Cali
+557,446,41,2023-06-30,427.97,No,,Brazil,Rio de Janeiro
+558,471,65,2023-11-20,279.82,No,,Colombia,Bogotá
+559,55,76,2023-05-19,269.63,No,,Colombia,Cali
+560,219,26,2024-01-26,178.87,No,,Chile,Santiago
+561,474,36,2023-08-06,833.64,No,,Chile,Concepción
+562,404,62,2023-05-22,283.91,No,,Peru,Arequipa
+563,3,20,2024-03-02,811.75,No,,Costa Rica,Cartago
+564,438,34,2023-07-02,43.69,No,,Argentina,Buenos Aires
+565,448,35,2023-02-21,675.19,No,,Chile,Valparaíso
+566,14,11,2024-02-07,103.78,No,,Mexico,Guadalajara
+567,88,36,2023-01-18,508.21,No,,Mexico,Guadalajara
+568,391,51,2024-02-24,32.38,No,,Uruguay,Montevideo
+569,264,87,2023-09-04,253.89,No,,Costa Rica,San José
+570,279,99,2024-04-27,990.35,No,,Venezuela,Valencia
+571,125,89,2023-07-30,236.11,No,,Colombia,Cali
+572,405,63,2023-03-10,487.72,No,,Costa Rica,San José
+573,227,36,2023-07-13,561.4,No,,Uruguay,Montevideo
+574,316,12,2023-03-09,121.42,No,,Chile,Concepción
+575,373,65,2023-01-07,238.1,No,,Argentina,Rosario
+576,194,87,2024-04-17,734.32,No,,Brazil,Rio de Janeiro
+577,84,21,2023-12-31,367.22,No,,Peru,Lima
+578,403,60,2023-03-22,602.31,No,,Brazil,Brasília
+579,30,5,2023-10-26,68.66,No,,Argentina,Buenos Aires
+580,353,22,2024-06-24,572.92,No,,Mexico,Monterrey
+581,162,20,2024-06-30,211.3,No,,Chile,Santiago
+582,500,52,2023-12-08,672.51,No,,Venezuela,Maracaibo
+583,237,62,2023-03-17,432.38,No,,Costa Rica,Cartago
+584,343,58,2023-06-16,649.16,No,,Chile,Santiago
+585,249,71,2023-06-16,416.39,No,,Colombia,Medellín
+586,356,47,2023-08-03,623.13,No,,Chile,Santiago
+587,8,67,2023-09-04,30.48,No,,Brazil,Rio de Janeiro
+588,209,80,2024-05-10,494.18,No,,Mexico,Guadalajara
+589,471,100,2023-04-18,384.39,No,,Colombia,Bogotá
+590,102,5,2024-06-22,780.95,No,,Uruguay,Montevideo
+591,308,33,2023-06-18,529.47,No,,Costa Rica,Cartago
+592,154,32,2024-05-31,373.47,No,,Argentina,Buenos Aires
+593,491,53,2024-01-19,674.68,No,,Venezuela,Valencia
+594,65,93,2023-04-04,714.06,No,,Mexico,Monterrey
+595,108,18,2023-06-02,101.1,No,,Costa Rica,Alajuela
+596,102,49,2023-04-21,67.22,No,,Mexico,Monterrey
+597,392,11,2023-08-30,692.5,No,,Chile,Santiago
+598,247,82,2023-10-25,408.69,No,,Brazil,Brasília
+599,13,79,2023-01-30,400.86,No,,Uruguay,Salto
+600,384,43,2024-02-01,278.77,No,,Costa Rica,San José
+601,139,63,2023-06-19,107.22,No,,Uruguay,Punta del Este
+602,62,54,2023-05-08,195.73,No,,Colombia,Cali
+603,400,74,2023-07-06,797.57,No,,Argentina,Córdoba
+604,114,3,2023-03-05,48.83,No,,Argentina,Buenos Aires
+605,481,69,2023-12-27,519.83,No,,Peru,Lima
+606,446,61,2024-05-24,164.51,No,,Venezuela,Caracas
+607,307,17,2023-05-11,543.45,No,,Brazil,Rio de Janeiro
+608,462,35,2024-06-07,37.0,No,,Chile,Santiago
+609,472,81,2024-04-12,763.55,No,,Argentina,Buenos Aires
+610,378,73,2024-05-03,154.47,No,,Argentina,Buenos Aires
+611,491,58,2023-07-15,832.47,No,,Costa Rica,Cartago
+612,215,17,2024-02-21,960.7,No,,Brazil,São Paulo
+613,243,33,2023-12-09,386.72,No,,Uruguay,Punta del Este
+614,296,35,2023-11-29,904.65,No,,Uruguay,Salto
+615,6,10,2023-11-03,990.46,No,,Brazil,Brasília
+616,139,87,2024-05-06,387.71,No,,Peru,Arequipa
+617,283,98,2023-03-13,407.91,No,,Chile,Santiago
+618,338,7,2023-09-12,46.77,No,,Uruguay,Punta del Este
+619,247,73,2023-10-15,858.9,No,,Costa Rica,Alajuela
+620,113,74,2024-01-14,37.8,No,,Peru,Cusco
+621,488,85,2023-01-22,184.44,No,,Brazil,Brasília
+622,162,10,2023-04-29,748.32,No,,Costa Rica,San José
+623,280,38,2023-02-26,592.85,No,,Uruguay,Montevideo
+624,183,69,2024-05-27,831.37,No,,Peru,Cusco
+625,281,1,2024-01-01,901.12,No,,Mexico,Mexico City
+626,28,21,2023-12-20,291.08,No,,Argentina,Buenos Aires
+627,116,66,2024-04-28,731.86,No,,Colombia,Cali
+628,489,28,2024-02-13,655.35,No,,Brazil,Brasília
+629,268,57,2023-04-23,870.51,No,,Brazil,Brasília
+630,248,74,2023-03-23,301.7,No,,Costa Rica,San José
+631,105,4,2023-04-09,478.07,No,,Uruguay,Salto
+632,450,25,2024-05-19,846.78,No,,Costa Rica,San José
+633,457,82,2023-05-10,164.29,No,,Venezuela,Maracaibo
+634,336,4,2023-05-28,247.06,No,,Venezuela,Caracas
+635,99,6,2023-05-14,711.93,No,,Peru,Cusco
+636,21,51,2023-02-14,476.54,No,,Chile,Santiago
+637,423,68,2024-06-03,808.03,No,,Argentina,Buenos Aires
+638,7,74,2023-07-06,912.22,No,,Chile,Concepción
+639,208,19,2024-04-07,120.28,No,,Peru,Arequipa
+640,73,64,2023-09-08,119.5,No,,Venezuela,Valencia
+641,165,25,2024-04-04,226.17,No,,Chile,Concepción
+642,83,70,2023-08-16,588.97,No,,Costa Rica,San José
+643,85,8,2024-06-05,405.08,No,,Brazil,São Paulo
+644,126,43,2023-04-16,505.98,No,,Mexico,Monterrey
+645,386,19,2023-10-21,879.28,No,,Brazil,São Paulo
+646,416,53,2024-05-19,154.72,No,,Chile,Santiago
+647,149,2,2023-04-08,521.37,No,,Costa Rica,Cartago
+648,255,82,2023-01-01,477.53,No,,Mexico,Mexico City
+649,474,91,2024-04-01,747.16,No,,Chile,Valparaíso
+650,8,97,2023-10-27,201.28,No,,Chile,Valparaíso
+651,198,67,2023-09-26,831.19,No,,Uruguay,Montevideo
+652,3,70,2023-11-27,377.38,No,,Colombia,Cali
+653,282,76,2024-04-08,534.19,No,,Uruguay,Montevideo
+654,124,20,2023-06-21,62.84,No,,Mexico,Monterrey
+655,459,14,2023-12-16,99.48,No,,Colombia,Cali
+656,287,94,2024-04-12,939.08,No,,Uruguay,Salto
+657,359,20,2023-09-30,366.17,No,,Mexico,Mexico City
+658,450,23,2023-11-27,6.12,No,,Brazil,Brasília
+659,51,65,2024-01-01,196.3,No,,Venezuela,Caracas
+660,451,64,2023-04-15,85.13,No,,Chile,Valparaíso
+661,365,77,2023-04-17,723.92,No,,Brazil,São Paulo
+662,220,81,2023-07-13,598.02,No,,Mexico,Guadalajara
+663,223,94,2024-05-04,366.23,No,,Venezuela,Caracas
+664,127,40,2023-06-11,367.17,No,,Colombia,Bogotá
+665,14,10,2024-06-04,23.65,No,,Chile,Valparaíso
+666,238,39,2024-03-03,245.19,No,,Mexico,Guadalajara
+667,397,99,2024-03-08,702.43,No,,Colombia,Bogotá
+668,237,6,2023-03-17,689.97,No,,Venezuela,Valencia
+669,123,31,2023-04-12,895.79,No,,Mexico,Monterrey
+670,334,63,2023-07-09,312.87,No,,Peru,Lima
+671,254,89,2023-08-09,486.88,No,,Chile,Santiago
+672,62,7,2024-01-02,579.82,No,,Venezuela,Caracas
+673,198,81,2024-04-09,586.49,No,,Chile,Santiago
+674,225,37,2024-03-03,682.34,No,,Chile,Santiago
+675,324,49,2023-03-17,150.97,No,,Chile,Concepción
+676,447,85,2023-06-28,49.06,No,,Venezuela,Maracaibo
+677,74,1,2023-02-26,159.12,No,,Uruguay,Montevideo
+678,239,88,2024-05-18,894.67,No,,Uruguay,Salto
+679,156,5,2024-03-24,601.95,No,,Costa Rica,Alajuela
+680,186,16,2023-03-03,438.87,No,,Chile,Valparaíso
+681,86,29,2024-06-08,753.04,No,,Peru,Arequipa
+682,189,2,2023-03-06,697.15,No,,Mexico,Guadalajara
+683,281,68,2023-10-27,427.34,No,,Brazil,São Paulo
+684,92,48,2023-04-25,619.88,No,,Costa Rica,Cartago
+685,334,23,2024-02-08,439.35,No,,Costa Rica,Cartago
+686,289,39,2023-08-04,424.46,No,,Uruguay,Punta del Este
+687,471,51,2023-07-06,640.4,No,,Venezuela,Caracas
+688,424,25,2024-02-16,143.89,No,,Venezuela,Valencia
+689,288,21,2023-05-31,182.9,No,,Mexico,Mexico City
+690,470,64,2024-01-12,467.54,No,,Peru,Cusco
+691,86,69,2023-08-04,759.65,No,,Mexico,Monterrey
+692,18,42,2023-04-17,245.3,No,,Costa Rica,Alajuela
+693,454,27,2023-05-09,283.08,No,,Venezuela,Valencia
+694,34,3,2024-03-29,261.15,No,,Venezuela,Valencia
+695,473,73,2023-02-14,380.5,No,,Costa Rica,San José
+696,277,30,2023-09-13,860.51,No,,Costa Rica,San José
+697,470,63,2023-07-11,178.65,No,,Chile,Concepción
+698,126,22,2024-03-12,390.26,No,,Chile,Valparaíso
+699,214,25,2023-03-18,441.93,No,,Argentina,Buenos Aires
+700,269,85,2023-11-07,717.29,No,,Mexico,Guadalajara
+701,436,62,2023-12-23,232.3,No,,Peru,Cusco
+702,364,21,2024-04-21,8.89,No,,Colombia,Medellín
+703,180,5,2023-11-16,218.93,No,,Argentina,Rosario
+704,395,56,2023-06-10,843.99,No,,Venezuela,Maracaibo
+705,271,2,2023-12-22,464.43,No,,Costa Rica,Alajuela
+706,364,2,2024-03-26,547.31,No,,Costa Rica,San José
+707,237,8,2024-05-29,133.57,No,,Mexico,Mexico City
+708,403,67,2024-06-10,574.3,No,,Costa Rica,Alajuela
+709,425,15,2023-10-26,485.38,No,,Colombia,Bogotá
+710,334,87,2023-05-29,33.55,No,,Chile,Concepción
+711,157,68,2024-04-20,613.89,No,,Uruguay,Montevideo
+712,377,42,2023-10-20,886.94,No,,Chile,Concepción
+713,456,1,2023-09-26,595.12,No,,Colombia,Medellín
+714,79,98,2024-05-20,625.97,No,,Venezuela,Caracas
+715,232,87,2023-03-23,123.88,No,,Argentina,Córdoba
+716,91,39,2024-06-08,65.15,No,,Mexico,Guadalajara
+717,198,62,2023-08-07,331.96,No,,Brazil,Brasília
+718,294,19,2024-01-10,683.9,No,,Argentina,Buenos Aires
+719,306,23,2024-04-24,5.56,No,,Mexico,Guadalajara
+720,250,9,2023-08-13,393.93,No,,Costa Rica,Alajuela
+721,439,84,2023-04-11,459.22,No,,Colombia,Bogotá
+722,324,62,2023-03-25,348.68,No,,Peru,Lima
+723,346,94,2023-11-04,617.49,No,,Peru,Cusco
+724,327,39,2024-02-29,49.34,No,,Argentina,Córdoba
+725,426,88,2024-05-09,580.55,No,,Chile,Santiago
+726,413,4,2023-11-13,478.89,No,,Chile,Concepción
+727,225,31,2023-08-06,993.6,No,,Costa Rica,San José
+728,331,50,2024-06-11,103.26,No,,Argentina,Rosario
+729,428,22,2023-02-01,589.26,No,,Argentina,Rosario
+730,235,18,2023-03-09,862.36,No,,Costa Rica,Alajuela
+731,441,53,2023-10-25,16.97,No,,Peru,Cusco
+732,64,78,2023-02-05,383.36,No,,Brazil,Brasília
+733,180,97,2023-12-04,348.34,No,,Peru,Arequipa
+734,372,86,2023-06-26,798.04,No,,Costa Rica,Alajuela
+735,362,80,2024-05-08,263.08,No,,Costa Rica,Alajuela
+736,298,99,2024-03-22,49.79,No,,Chile,Santiago
+737,336,86,2023-07-02,970.9,No,,Venezuela,Caracas
+738,350,1,2023-10-21,238.65,No,,Chile,Santiago
+739,165,11,2023-03-15,259.32,No,,Chile,Concepción
+740,69,17,2024-05-17,154.43,No,,Colombia,Cali
+741,393,60,2024-04-14,816.16,No,,Mexico,Monterrey
+742,353,75,2023-04-25,762.17,No,,Brazil,Brasília
+743,254,69,2023-10-04,786.7,No,,Brazil,Rio de Janeiro
+744,88,64,2023-07-22,141.03,No,,Venezuela,Caracas
+745,420,5,2023-12-20,670.63,No,,Costa Rica,Alajuela
+746,227,2,2023-03-12,76.68,No,,Uruguay,Montevideo
+747,447,33,2024-06-30,114.12,No,,Costa Rica,San José
+748,113,7,2023-02-08,926.9,No,,Colombia,Cali
+749,56,50,2024-02-29,944.88,No,,Colombia,Bogotá
+750,407,88,2024-05-15,822.45,No,,Argentina,Córdoba
+751,327,21,2024-02-28,947.06,No,,Mexico,Monterrey
+752,11,74,2023-04-21,449.35,No,,Chile,Concepción
+753,234,76,2024-02-14,70.62,No,,Mexico,Monterrey
+754,54,37,2023-12-17,597.21,No,,Peru,Cusco
+755,294,32,2023-04-05,178.81,No,,Peru,Arequipa
+756,469,5,2023-04-17,172.62,No,,Colombia,Cali
+757,11,45,2023-06-29,913.27,No,,Brazil,Brasília
+758,16,80,2024-04-23,111.07,No,,Uruguay,Montevideo
+759,331,38,2024-02-14,316.22,No,,Venezuela,Valencia
+760,213,64,2023-05-30,44.77,No,,Colombia,Medellín
+761,490,77,2023-11-19,610.45,No,,Mexico,Monterrey
+762,189,99,2024-03-03,727.46,No,,Brazil,São Paulo
+763,226,58,2023-02-14,742.5,No,,Venezuela,Maracaibo
+764,263,87,2023-01-20,796.91,No,,Brazil,Brasília
+765,54,92,2024-03-20,602.51,No,,Venezuela,Valencia
+766,419,84,2023-07-02,353.98,No,,Argentina,Rosario
+767,87,59,2023-01-19,832.65,No,,Chile,Concepción
+768,336,100,2023-02-19,800.57,No,,Uruguay,Montevideo
+769,149,92,2023-06-04,368.43,No,,Colombia,Cali
+770,329,75,2023-07-27,832.07,No,,Argentina,Rosario
+771,49,43,2023-10-22,349.14,No,,Chile,Concepción
+772,344,100,2023-04-29,281.55,No,,Venezuela,Valencia
+773,383,79,2023-10-24,692.41,No,,Brazil,Rio de Janeiro
+774,218,2,2023-07-30,270.34,No,,Peru,Arequipa
+775,412,26,2023-12-26,645.54,No,,Brazil,São Paulo
+776,395,1,2024-01-03,165.98,No,,Brazil,Rio de Janeiro
+777,374,4,2023-02-12,142.86,No,,Argentina,Córdoba
+778,129,94,2024-03-23,873.53,No,,Uruguay,Punta del Este
+779,411,8,2024-02-01,881.79,No,,Brazil,Rio de Janeiro
+780,290,45,2024-03-05,815.89,No,,Argentina,Córdoba
+781,410,50,2023-04-17,119.67,No,,Colombia,Medellín
+782,141,51,2024-06-26,356.37,No,,Venezuela,Maracaibo
+783,341,17,2023-03-18,209.79,No,,Brazil,Rio de Janeiro
+784,437,86,2023-04-26,992.38,No,,Peru,Arequipa
+785,397,44,2023-06-28,582.73,No,,Uruguay,Montevideo
+786,46,59,2023-01-04,381.57,No,,Mexico,Monterrey
+787,158,51,2024-01-01,590.28,No,,Costa Rica,San José
+788,373,12,2023-07-16,942.8,No,,Mexico,Monterrey
+789,267,43,2023-04-03,546.95,No,,Colombia,Bogotá
+790,175,14,2023-07-12,822.77,No,,Mexico,Mexico City
+791,323,29,2023-09-13,429.07,No,,Colombia,Cali
+792,409,72,2023-04-05,480.31,No,,Colombia,Medellín
+793,353,75,2023-09-22,557.26,No,,Colombia,Cali
+794,393,25,2023-03-26,981.02,No,,Argentina,Rosario
+795,133,91,2024-04-05,686.89,No,,Chile,Concepción
+796,21,46,2023-09-30,459.46,No,,Brazil,Rio de Janeiro
+797,87,45,2023-12-23,903.36,No,,Brazil,São Paulo
+798,312,49,2023-07-25,939.76,No,,Mexico,Monterrey
+799,426,38,2024-02-02,934.02,No,,Brazil,Brasília
+800,451,100,2023-03-23,875.44,No,,Chile,Santiago
+801,143,30,2023-08-15,512.75,No,,Uruguay,Punta del Este
+802,246,78,2023-02-18,483.9,No,,Chile,Concepción
+803,296,91,2024-01-16,741.64,No,,Venezuela,Valencia
+804,346,32,2024-04-20,785.32,No,,Chile,Concepción
+805,101,1,2024-06-07,464.37,No,,Brazil,São Paulo
+806,159,54,2024-02-14,353.56,No,,Uruguay,Punta del Este
+807,248,76,2024-05-15,897.25,No,,Chile,Concepción
+808,481,23,2024-03-24,136.57,No,,Uruguay,Punta del Este
+809,412,7,2024-03-13,31.6,No,,Mexico,Guadalajara
+810,401,92,2023-10-01,5.1,No,,Costa Rica,Alajuela
+811,145,62,2023-09-12,360.43,No,,Brazil,São Paulo
+812,240,27,2024-04-16,20.16,No,,Uruguay,Salto
+813,437,6,2023-02-04,226.68,No,,Chile,Valparaíso
+814,452,55,2024-03-17,206.67,No,,Brazil,Brasília
+815,241,48,2023-04-20,885.97,No,,Brazil,São Paulo
+816,289,6,2024-03-23,948.78,No,,Colombia,Medellín
+817,494,71,2023-02-09,763.98,No,,Colombia,Cali
+818,39,48,2023-09-12,383.45,No,,Brazil,São Paulo
+819,42,34,2023-10-07,540.55,No,,Venezuela,Valencia
+820,256,16,2024-02-17,623.83,No,,Uruguay,Salto
+821,456,10,2023-05-12,913.04,No,,Peru,Cusco
+822,125,50,2023-01-22,580.6,No,,Mexico,Mexico City
+823,68,16,2023-12-01,894.74,No,,Chile,Santiago
+824,459,87,2023-09-09,50.11,No,,Chile,Concepción
+825,196,9,2023-08-03,425.16,No,,Chile,Concepción
+826,70,64,2023-01-20,566.77,No,,Chile,Concepción
+827,370,55,2023-08-05,775.48,No,,Colombia,Medellín
+828,287,61,2024-01-20,803.47,No,,Mexico,Guadalajara
+829,210,84,2023-10-31,956.39,No,,Colombia,Bogotá
+830,191,26,2023-07-07,250.56,No,,Brazil,Rio de Janeiro
+831,320,94,2023-12-06,970.86,No,,Chile,Concepción
+832,10,18,2023-12-05,889.08,No,,Costa Rica,San José
+833,469,67,2024-02-28,857.93,No,,Costa Rica,Alajuela
+834,25,71,2023-06-06,545.47,No,,Colombia,Cali
+835,500,25,2023-11-08,329.46,No,,Mexico,Mexico City
+836,85,26,2024-03-02,215.61,No,,Argentina,Buenos Aires
+837,246,67,2023-11-24,853.17,No,,Uruguay,Montevideo
+838,213,78,2023-04-01,777.2,No,,Mexico,Mexico City
+839,363,56,2024-01-20,56.31,No,,Mexico,Guadalajara
+840,349,31,2023-01-08,699.13,No,,Costa Rica,San José
+841,394,35,2023-08-15,416.34,No,,Chile,Concepción
+842,332,39,2023-05-20,303.67,No,,Peru,Cusco
+843,453,22,2023-01-31,563.94,No,,Mexico,Monterrey
+844,409,79,2023-03-30,231.67,No,,Uruguay,Punta del Este
+845,409,39,2024-04-03,526.85,No,,Brazil,Rio de Janeiro
+846,277,75,2024-04-29,336.61,No,,Mexico,Guadalajara
+847,484,25,2023-03-01,180.37,No,,Colombia,Medellín
+848,157,78,2023-07-15,393.07,No,,Costa Rica,San José
+849,167,78,2024-04-14,587.64,No,,Peru,Arequipa
+850,151,16,2023-06-24,550.8,No,,Mexico,Guadalajara
+851,218,93,2024-01-01,378.67,No,,Mexico,Monterrey
+852,390,62,2024-01-19,639.8,No,,Uruguay,Montevideo
+853,358,8,2023-10-12,562.37,No,,Costa Rica,Alajuela
+854,441,93,2023-01-11,161.39,No,,Venezuela,Valencia
+855,80,33,2024-05-19,343.96,No,,Chile,Valparaíso
+856,134,50,2024-03-17,416.88,No,,Brazil,Brasília
+857,326,94,2023-08-02,542.54,No,,Argentina,Rosario
+858,342,36,2023-08-05,801.06,No,,Brazil,Rio de Janeiro
+859,243,85,2023-08-23,923.65,No,,Venezuela,Valencia
+860,455,57,2024-04-24,961.23,No,,Venezuela,Maracaibo
+861,40,34,2024-02-10,588.13,No,,Costa Rica,Alajuela
+862,381,52,2024-05-01,206.6,No,,Peru,Cusco
+863,188,70,2023-11-02,700.98,No,,Peru,Lima
+864,124,89,2023-07-16,950.08,No,,Uruguay,Montevideo
+865,100,15,2023-01-16,977.52,No,,Colombia,Cali
+866,89,77,2024-04-12,383.82,No,,Chile,Santiago
+867,475,74,2023-12-17,257.84,No,,Costa Rica,Cartago
+868,356,73,2023-12-21,390.16,No,,Brazil,São Paulo
+869,345,97,2023-06-19,111.53,No,,Mexico,Mexico City
+870,2,12,2023-01-08,388.94,No,,Mexico,Mexico City
+871,185,10,2023-05-30,730.61,No,,Colombia,Cali
+872,59,58,2023-08-04,510.26,No,,Chile,Valparaíso
+873,8,79,2024-04-05,161.25,No,,Mexico,Guadalajara
+874,366,51,2023-10-29,362.45,No,,Costa Rica,San José
+875,384,84,2024-06-04,867.71,No,,Argentina,Córdoba
+876,363,43,2023-01-05,212.59,No,,Argentina,Buenos Aires
+877,32,18,2023-09-13,648.72,No,,Brazil,Rio de Janeiro
+878,373,92,2023-08-19,832.83,No,,Brazil,Brasília
+879,190,5,2023-08-14,72.08,No,,Colombia,Bogotá
+880,329,95,2024-01-13,878.95,No,,Uruguay,Punta del Este
+881,166,26,2023-08-11,550.48,No,,Brazil,Rio de Janeiro
+882,443,48,2023-05-23,452.96,No,,Costa Rica,Cartago
+883,372,36,2024-01-17,911.88,No,,Colombia,Cali
+884,19,93,2023-09-11,229.55,No,,Brazil,Brasília
+885,14,57,2023-01-30,649.05,No,,Brazil,São Paulo
+886,1,51,2023-10-31,401.77,No,,Mexico,Mexico City
+887,465,35,2024-04-03,752.84,No,,Brazil,Brasília
+888,175,15,2023-10-17,251.85,No,,Peru,Lima
+889,498,25,2023-06-08,814.84,No,,Peru,Arequipa
+890,208,5,2023-10-17,86.61,No,,Venezuela,Valencia
+891,428,86,2024-01-28,742.41,No,,Mexico,Guadalajara
+892,72,45,2024-05-31,27.68,No,,Colombia,Bogotá
+893,407,21,2023-09-07,260.16,No,,Costa Rica,Alajuela
+894,122,90,2023-01-27,171.06,No,,Peru,Cusco
+895,483,99,2023-02-08,882.34,No,,Chile,Santiago
+896,133,14,2023-06-06,597.0,No,,Chile,Concepción
+897,7,19,2023-01-14,129.54,No,,Chile,Concepción
+898,21,47,2024-01-24,164.33,No,,Venezuela,Valencia
+899,460,74,2023-04-17,894.73,No,,Costa Rica,San José
+900,403,72,2023-08-24,455.1,No,,Argentina,Córdoba
+901,364,44,2024-01-20,219.23,No,,Costa Rica,Cartago
+902,456,32,2023-04-04,176.29,No,,Uruguay,Montevideo
+903,398,40,2024-02-01,591.33,No,,Chile,Santiago
+904,367,65,2024-06-23,865.45,No,,Venezuela,Maracaibo
+905,160,99,2024-04-28,88.64,No,,Venezuela,Valencia
+906,227,64,2024-03-19,542.05,No,,Argentina,Rosario
+907,500,100,2024-05-06,922.13,No,,Peru,Arequipa
+908,270,31,2023-06-19,598.37,No,,Chile,Santiago
+909,13,68,2023-07-06,22.56,No,,Argentina,Rosario
+910,493,45,2023-10-09,322.6,No,,Chile,Concepción
+911,242,79,2024-04-15,685.67,No,,Colombia,Medellín
+912,14,42,2024-06-20,416.32,No,,Mexico,Mexico City
+913,179,81,2024-07-01,822.67,No,,Argentina,Buenos Aires
+914,412,64,2024-04-25,502.18,No,,Brazil,São Paulo
+915,252,63,2023-08-13,242.54,No,,Colombia,Medellín
+916,356,21,2024-02-19,644.63,No,,Chile,Santiago
+917,386,75,2023-02-02,404.43,No,,Venezuela,Caracas
+918,318,46,2023-03-20,196.7,No,,Brazil,Rio de Janeiro
+919,300,98,2023-08-28,967.68,No,,Chile,Concepción
+920,307,51,2023-08-25,305.8,No,,Chile,Santiago
+921,320,74,2023-11-20,704.6,No,,Uruguay,Montevideo
+922,197,63,2024-04-03,124.34,No,,Costa Rica,Cartago
+923,95,95,2024-04-10,370.2,No,,Argentina,Buenos Aires
+924,424,39,2023-07-30,880.48,No,,Colombia,Cali
+925,432,64,2023-05-17,210.96,No,,Venezuela,Maracaibo
+926,98,13,2023-07-19,91.81,No,,Colombia,Medellín
+927,467,18,2024-02-16,232.69,No,,Chile,Concepción
+928,326,70,2024-06-14,560.96,No,,Mexico,Guadalajara
+929,338,36,2023-12-21,314.68,No,,Venezuela,Caracas
+930,345,84,2023-08-29,222.89,No,,Chile,Santiago
+931,326,95,2023-09-07,194.81,No,,Brazil,Brasília
+932,371,99,2024-01-04,52.81,No,,Costa Rica,Alajuela
+933,232,33,2023-11-12,555.29,No,,Uruguay,Montevideo
+934,446,88,2023-08-02,106.45,No,,Brazil,Rio de Janeiro
+935,106,8,2024-04-17,700.26,No,,Chile,Concepción
+936,190,83,2024-02-02,765.91,No,,Peru,Arequipa
+937,247,65,2023-07-10,333.67,No,,Uruguay,Salto
+938,9,2,2024-06-26,328.43,No,,Venezuela,Maracaibo
+939,85,55,2024-04-27,615.63,No,,Uruguay,Salto
+940,4,59,2023-09-26,995.26,No,,Venezuela,Maracaibo
+941,347,51,2023-09-05,125.29,No,,Venezuela,Valencia
+942,72,55,2023-08-06,581.07,No,,Uruguay,Punta del Este
+943,373,52,2024-01-23,334.64,No,,Venezuela,Valencia
+944,116,38,2023-10-10,980.67,No,,Costa Rica,San José
+945,326,22,2024-06-22,474.36,No,,Mexico,Monterrey
+946,121,5,2023-01-05,474.15,No,,Peru,Arequipa
+947,120,72,2023-07-30,952.91,No,,Venezuela,Valencia
+948,248,37,2023-10-28,187.14,No,,Costa Rica,Alajuela
+949,407,99,2023-10-01,191.8,No,,Mexico,Guadalajara
+950,232,77,2023-06-11,827.55,No,,Argentina,Córdoba
+951,468,1,2023-12-19,775.03,No,,Chile,Concepción
+952,136,37,2023-10-12,773.38,No,,Mexico,Guadalajara
+953,339,6,2023-08-16,721.84,No,,Mexico,Monterrey
+954,120,35,2023-07-25,444.5,No,,Venezuela,Caracas
+955,355,89,2023-08-04,708.56,No,,Costa Rica,Alajuela
+956,378,73,2024-02-13,913.89,No,,Chile,Concepción
+957,15,6,2023-10-23,164.58,No,,Colombia,Bogotá
+958,89,50,2023-09-17,297.72,No,,Chile,Valparaíso
+959,289,63,2023-07-30,416.58,No,,Peru,Cusco
+960,432,25,2023-05-24,644.75,No,,Venezuela,Maracaibo
+961,299,27,2023-02-01,741.11,No,,Peru,Arequipa
+962,164,62,2023-05-24,529.82,No,,Costa Rica,Cartago
+963,307,5,2023-11-27,130.4,No,,Colombia,Medellín
+964,197,74,2023-05-05,473.49,No,,Costa Rica,San José
+965,360,41,2023-06-03,727.8,No,,Brazil,Rio de Janeiro
+966,15,12,2024-04-02,399.57,No,,Colombia,Bogotá
+967,206,26,2023-12-13,882.72,No,,Argentina,Rosario
+968,350,71,2023-06-24,305.68,No,,Uruguay,Montevideo
+969,454,43,2024-03-11,83.08,No,,Costa Rica,San José
+970,67,45,2023-09-17,576.67,No,,Peru,Lima
+971,372,42,2023-03-11,500.19,No,,Costa Rica,Cartago
+972,392,37,2024-02-26,89.87,No,,Venezuela,Maracaibo
+973,404,89,2023-10-27,785.57,No,,Uruguay,Montevideo
+974,458,28,2023-06-23,742.6,No,,Costa Rica,Cartago
+975,334,51,2023-05-01,310.43,No,,Chile,Valparaíso
+976,11,76,2023-10-29,429.65,No,,Uruguay,Montevideo
+977,217,21,2023-04-23,54.13,No,,Colombia,Medellín
+978,413,80,2024-01-26,714.37,No,,Chile,Valparaíso
+979,428,71,2023-02-06,766.32,No,,Peru,Cusco
+980,355,72,2023-11-10,230.43,No,,Colombia,Cali
+981,140,97,2023-07-06,36.4,No,,Brazil,São Paulo
+982,338,37,2024-01-08,6.77,No,,Venezuela,Valencia
+983,13,87,2023-01-23,217.54,No,,Uruguay,Salto
+984,493,14,2024-06-03,801.14,No,,Peru,Lima
+985,428,70,2024-04-11,144.73,No,,Uruguay,Punta del Este
+986,145,67,2024-01-29,329.68,No,,Venezuela,Valencia
+987,7,17,2023-10-31,458.94,No,,Venezuela,Maracaibo
+988,66,51,2024-04-13,614.12,No,,Argentina,Córdoba
+989,48,5,2023-10-12,249.62,No,,Colombia,Bogotá
+990,208,20,2023-02-13,616.4,No,,Peru,Lima
+991,72,47,2024-01-28,993.37,No,,Brazil,São Paulo
+992,333,36,2024-06-23,193.67,No,,Mexico,Mexico City
+993,440,90,2024-02-09,933.35,No,,Venezuela,Caracas
+994,222,28,2023-05-05,427.66,No,,Costa Rica,Cartago
+995,283,5,2023-03-08,819.71,No,,Mexico,Mexico City
+996,252,54,2024-03-31,137.44,No,,Chile,Concepción
+997,235,80,2024-02-22,718.68,No,,Mexico,Guadalajara
+998,358,86,2024-06-13,48.89,No,,Chile,Santiago
+999,370,48,2024-01-19,116.95,No,,Colombia,Medellín
+1000,163,18,2023-07-23,80.42,No,,Costa Rica,Cartago
+1001,323,18,2023-12-29,842.89,No,,Uruguay,Salto
+1002,329,52,2023-03-22,526.27,No,,Uruguay,Punta del Este
+1003,278,77,2023-06-15,137.82,No,,Peru,Cusco
+1004,357,77,2023-09-28,552.95,No,,Venezuela,Caracas
+1005,353,92,2023-08-05,276.6,No,,Colombia,Cali
+1006,405,52,2023-08-18,315.43,No,,Uruguay,Salto
+1007,444,58,2023-09-20,536.73,No,,Chile,Santiago
+1008,292,60,2023-03-12,774.09,No,,Brazil,Rio de Janeiro
+1009,379,59,2023-08-28,512.74,No,,Argentina,Rosario
+1010,348,69,2023-01-03,629.46,No,,Chile,Valparaíso
+1011,125,78,2023-02-21,316.7,No,,Chile,Santiago
+1012,116,1,2023-02-05,347.64,No,,Peru,Cusco
+1013,412,44,2023-03-28,78.76,No,,Colombia,Medellín
+1014,409,38,2024-01-30,17.63,No,,Uruguay,Montevideo
+1015,204,18,2023-08-10,293.65,No,,Costa Rica,Alajuela
+1016,396,6,2024-02-14,931.09,No,,Uruguay,Punta del Este
+1017,188,83,2023-02-07,196.98,No,,Chile,Valparaíso
+1018,16,80,2023-11-08,136.84,No,,Peru,Lima
+1019,245,37,2023-12-11,481.22,No,,Chile,Concepción
+1020,319,4,2023-04-09,287.08,No,,Costa Rica,San José
+1021,49,55,2024-02-09,641.42,No,,Mexico,Mexico City
+1022,183,47,2023-10-26,924.02,No,,Chile,Valparaíso
+1023,91,47,2024-06-09,600.74,No,,Mexico,Guadalajara
+1024,327,33,2023-04-14,476.76,No,,Costa Rica,San José
+1025,446,32,2024-02-25,902.12,No,,Argentina,Rosario
+1026,151,23,2023-04-20,291.3,No,,Colombia,Cali
+1027,232,17,2024-05-13,951.26,No,,Mexico,Guadalajara
+1028,25,67,2024-02-03,49.98,No,,Brazil,Brasília
+1029,143,12,2023-12-03,323.19,No,,Costa Rica,Cartago
+1030,169,84,2023-03-14,410.96,No,,Mexico,Mexico City
+1031,307,10,2024-02-14,563.83,No,,Venezuela,Caracas
+1032,430,72,2023-06-09,836.78,No,,Chile,Concepción
+1033,119,76,2024-02-06,434.43,No,,Venezuela,Caracas
+1034,196,74,2023-08-20,765.15,No,,Costa Rica,Alajuela
+1035,184,62,2024-02-09,202.47,No,,Colombia,Medellín
+1036,314,14,2024-02-12,882.65,No,,Costa Rica,San José
+1037,443,71,2023-01-07,63.69,No,,Colombia,Cali
+1038,377,75,2023-11-18,384.6,No,,Uruguay,Punta del Este
+1039,66,50,2023-12-15,296.04,No,,Venezuela,Caracas
+1040,359,88,2024-05-29,40.19,No,,Uruguay,Salto
+1041,286,97,2024-04-21,277.57,No,,Uruguay,Salto
+1042,382,45,2023-08-03,125.49,No,,Mexico,Mexico City
+1043,492,28,2023-08-26,255.8,No,,Uruguay,Montevideo
+1044,310,1,2023-07-07,662.46,No,,Mexico,Guadalajara
+1045,210,79,2024-03-17,954.87,No,,Uruguay,Salto
+1046,50,30,2024-01-03,542.91,No,,Chile,Concepción
+1047,16,78,2024-01-19,253.84,No,,Colombia,Cali
+1048,93,26,2023-01-29,196.89,No,,Venezuela,Caracas
+1049,381,71,2023-01-15,234.07,No,,Costa Rica,San José
+1050,198,83,2024-02-29,330.1,No,,Uruguay,Salto
+1051,480,15,2023-08-14,23.8,No,,Colombia,Medellín
+1052,72,15,2023-01-17,267.75,No,,Colombia,Bogotá
+1053,215,91,2023-08-05,620.9,No,,Costa Rica,Cartago
+1054,417,81,2023-01-22,472.73,No,,Uruguay,Salto
+1055,8,47,2023-04-06,449.67,No,,Chile,Valparaíso
+1056,87,57,2024-03-04,461.05,No,,Peru,Arequipa
+1057,107,8,2023-03-10,285.22,No,,Chile,Santiago
+1058,3,62,2023-03-02,375.68,No,,Brazil,São Paulo
+1059,265,42,2023-12-23,414.77,No,,Argentina,Rosario
+1060,42,83,2024-03-28,827.48,No,,Uruguay,Punta del Este
+1061,452,41,2023-08-15,703.74,No,,Peru,Cusco
+1062,152,97,2023-01-21,48.26,No,,Colombia,Bogotá
+1063,225,39,2023-05-11,580.01,No,,Costa Rica,Cartago
+1064,130,96,2023-11-24,174.97,No,,Colombia,Medellín
+1065,203,62,2023-04-02,302.19,No,,Brazil,Brasília
+1066,196,71,2023-04-06,769.7,No,,Venezuela,Valencia
+1067,32,25,2023-11-12,240.05,No,,Uruguay,Salto
+1068,36,32,2023-03-06,611.37,No,,Uruguay,Salto
+1069,449,95,2023-10-24,57.69,No,,Peru,Arequipa
+1070,78,58,2024-03-03,806.0,No,,Peru,Lima
+1071,153,87,2024-03-06,236.18,No,,Brazil,São Paulo
+1072,408,65,2023-06-19,494.04,No,,Brazil,Rio de Janeiro
+1073,150,39,2024-01-09,838.16,No,,Mexico,Guadalajara
+1074,334,80,2023-09-13,536.32,No,,Argentina,Córdoba
+1075,131,94,2023-08-04,991.88,No,,Colombia,Medellín
+1076,254,37,2023-04-11,248.66,No,,Brazil,Brasília
+1077,319,7,2023-05-11,290.04,No,,Chile,Valparaíso
+1078,439,71,2024-05-07,601.98,No,,Brazil,Brasília
+1079,54,90,2023-04-16,544.16,No,,Venezuela,Valencia
+1080,49,25,2023-09-26,276.03,No,,Colombia,Cali
+1081,397,90,2023-04-29,695.56,No,,Uruguay,Montevideo
+1082,408,80,2023-03-07,897.98,No,,Venezuela,Valencia
+1083,297,13,2024-06-17,48.36,No,,Brazil,Rio de Janeiro
+1084,312,86,2023-06-11,70.49,No,,Costa Rica,San José
+1085,408,62,2024-03-06,423.46,No,,Peru,Arequipa
+1086,1,24,2024-03-10,737.88,No,,Venezuela,Maracaibo
+1087,183,90,2023-10-10,382.01,No,,Peru,Cusco
+1088,27,19,2023-08-05,811.92,No,,Venezuela,Maracaibo
+1089,45,7,2023-04-23,201.59,No,,Peru,Arequipa
+1090,111,32,2024-06-06,190.85,No,,Costa Rica,Alajuela
+1091,260,96,2024-04-15,704.33,No,,Uruguay,Punta del Este
+1092,286,65,2023-01-02,532.17,No,,Uruguay,Salto
+1093,32,71,2023-12-30,43.83,No,,Uruguay,Punta del Este
+1094,232,67,2023-05-21,117.46,No,,Chile,Concepción
+1095,239,63,2024-03-26,838.84,No,,Argentina,Buenos Aires
+1096,171,23,2023-06-24,209.44,No,,Brazil,Rio de Janeiro
+1097,14,78,2023-07-31,653.5,No,,Mexico,Mexico City
+1098,392,24,2024-02-13,788.42,No,,Peru,Lima
+1099,293,96,2023-06-12,559.38,No,,Uruguay,Montevideo
+1100,176,16,2024-04-30,263.56,No,,Brazil,Brasília
+1101,412,6,2024-02-11,152.67,No,,Argentina,Rosario
+1102,34,41,2023-11-17,718.3,No,,Colombia,Bogotá
+1103,285,97,2024-05-16,279.08,No,,Chile,Concepción
+1104,140,39,2023-10-31,884.18,No,,Uruguay,Montevideo
+1105,60,5,2023-07-09,457.31,No,,Venezuela,Maracaibo
+1106,4,60,2023-01-23,275.62,No,,Brazil,Brasília
+1107,317,4,2023-01-13,691.61,No,,Venezuela,Valencia
+1108,318,61,2024-05-28,875.59,No,,Mexico,Monterrey
+1109,66,13,2024-01-04,679.6,No,,Chile,Concepción
+1110,174,31,2023-06-11,81.45,No,,Colombia,Medellín
+1111,108,41,2023-09-12,315.87,No,,Chile,Santiago
+1112,413,84,2024-04-24,286.07,No,,Argentina,Rosario
+1113,185,3,2023-02-10,387.42,No,,Peru,Lima
+1114,62,40,2024-03-24,379.66,No,,Chile,Concepción
+1115,377,92,2023-11-01,93.42,No,,Colombia,Medellín
+1116,209,36,2024-01-18,570.44,No,,Mexico,Guadalajara
+1117,383,99,2024-03-12,20.48,No,,Mexico,Monterrey
+1118,278,42,2024-05-11,819.96,No,,Costa Rica,Cartago
+1119,22,21,2024-05-06,578.07,No,,Peru,Cusco
+1120,479,2,2023-06-01,143.88,No,,Peru,Cusco
+1121,272,96,2023-12-26,171.36,No,,Mexico,Guadalajara
+1122,263,29,2024-02-12,995.35,No,,Colombia,Bogotá
+1123,385,22,2023-11-26,411.42,No,,Costa Rica,Cartago
+1124,461,27,2023-06-25,552.48,No,,Mexico,Guadalajara
+1125,273,36,2023-05-27,355.78,No,,Costa Rica,Alajuela
+1126,365,69,2024-05-01,986.24,No,,Argentina,Córdoba
+1127,415,29,2023-07-30,282.32,No,,Venezuela,Maracaibo
+1128,2,59,2023-07-23,981.92,No,,Chile,Concepción
+1129,450,38,2023-08-29,557.18,No,,Chile,Valparaíso
+1130,466,63,2023-12-02,153.16,No,,Chile,Valparaíso
+1131,132,54,2023-06-04,557.28,No,,Chile,Santiago
+1132,452,28,2023-10-02,549.68,No,,Chile,Valparaíso
+1133,142,56,2023-10-04,613.56,No,,Costa Rica,Alajuela
+1134,283,54,2023-10-27,610.64,No,,Brazil,São Paulo
+1135,425,97,2023-09-06,142.34,No,,Venezuela,Caracas
+1136,409,94,2024-06-17,801.35,No,,Argentina,Rosario
+1137,343,83,2024-04-04,494.72,No,,Peru,Cusco
+1138,7,11,2023-06-30,121.24,No,,Chile,Santiago
+1139,264,84,2023-09-23,569.88,No,,Brazil,Rio de Janeiro
+1140,101,28,2023-11-04,708.19,No,,Colombia,Cali
+1141,129,78,2023-04-19,610.73,No,,Mexico,Monterrey
+1142,169,40,2023-08-15,216.96,No,,Venezuela,Maracaibo
+1143,231,68,2023-12-15,663.24,No,,Chile,Valparaíso
+1144,236,49,2023-06-09,361.94,No,,Chile,Valparaíso
+1145,261,28,2023-03-12,166.87,No,,Mexico,Monterrey
+1146,6,43,2023-06-15,765.89,No,,Argentina,Rosario
+1147,379,42,2024-02-21,390.96,No,,Mexico,Monterrey
+1148,102,10,2024-02-13,542.85,No,,Venezuela,Valencia
+1149,41,48,2024-02-20,355.5,No,,Uruguay,Punta del Este
+1150,88,28,2023-08-22,141.93,No,,Colombia,Cali
+1151,152,93,2023-06-26,264.9,No,,Costa Rica,Alajuela
+1152,32,70,2023-11-21,917.84,No,,Mexico,Mexico City
+1153,488,19,2023-06-03,533.75,No,,Brazil,Brasília
+1154,432,8,2023-06-13,733.93,No,,Mexico,Guadalajara
+1155,94,98,2023-11-09,572.7,No,,Colombia,Medellín
+1156,42,20,2024-02-20,690.16,No,,Uruguay,Montevideo
+1157,399,26,2023-05-15,26.8,No,,Chile,Concepción
+1158,431,18,2023-02-01,939.56,No,,Costa Rica,Alajuela
+1159,439,28,2024-04-19,951.81,No,,Venezuela,Valencia
+1160,290,70,2023-05-19,489.47,No,,Mexico,Guadalajara
+1161,382,56,2023-07-30,654.73,No,,Chile,Concepción
+1162,179,86,2023-06-02,417.92,No,,Uruguay,Salto
+1163,407,27,2024-05-06,323.31,No,,Argentina,Rosario
+1164,233,30,2023-11-17,884.84,No,,Mexico,Monterrey
+1165,360,36,2023-06-19,21.51,No,,Mexico,Mexico City
+1166,381,76,2023-09-01,952.25,No,,Chile,Valparaíso
+1167,93,76,2023-05-14,284.7,No,,Costa Rica,Alajuela
+1168,384,18,2023-06-16,509.99,No,,Colombia,Medellín
+1169,475,8,2024-01-13,579.89,No,,Venezuela,Caracas
+1170,16,2,2024-03-31,367.35,No,,Uruguay,Montevideo
+1171,491,73,2023-01-21,957.4,No,,Costa Rica,Cartago
+1172,270,2,2023-02-13,755.13,No,,Argentina,Córdoba
+1173,170,58,2023-03-05,78.59,No,,Brazil,Rio de Janeiro
+1174,205,96,2024-05-08,158.78,No,,Argentina,Rosario
+1175,493,42,2023-07-24,46.32,No,,Chile,Santiago
+1176,263,11,2024-07-01,187.05,No,,Brazil,Brasília
+1177,249,59,2023-06-19,91.99,No,,Brazil,Rio de Janeiro
+1178,470,80,2023-03-06,963.79,No,,Chile,Concepción
+1179,255,56,2024-05-14,616.44,No,,Mexico,Mexico City
+1180,121,81,2023-01-25,547.81,No,,Colombia,Bogotá
+1181,178,32,2023-12-20,361.83,No,,Chile,Concepción
+1182,271,39,2023-09-20,472.17,No,,Uruguay,Punta del Este
+1183,325,5,2024-02-29,229.83,No,,Colombia,Medellín
+1184,455,70,2023-12-19,900.02,No,,Mexico,Mexico City
+1185,6,99,2023-10-05,717.52,No,,Argentina,Rosario
+1186,286,28,2023-09-22,357.51,No,,Brazil,São Paulo
+1187,434,88,2023-12-06,350.03,No,,Uruguay,Punta del Este
+1188,298,56,2024-05-30,255.86,No,,Mexico,Mexico City
+1189,119,30,2023-09-14,382.28,No,,Uruguay,Montevideo
+1190,52,93,2023-05-09,678.07,No,,Venezuela,Valencia
+1191,63,77,2023-05-28,790.57,No,,Peru,Cusco
+1192,386,1,2023-03-13,46.82,No,,Brazil,Brasília
+1193,336,30,2023-11-04,299.25,No,,Brazil,Brasília
+1194,409,71,2023-12-27,956.23,No,,Venezuela,Valencia
+1195,258,29,2024-01-26,374.38,No,,Brazil,Rio de Janeiro
+1196,445,67,2024-01-29,524.7,No,,Mexico,Guadalajara
+1197,59,42,2023-05-01,937.63,No,,Chile,Valparaíso
+1198,490,99,2023-11-20,654.49,No,,Argentina,Rosario
+1199,81,11,2023-08-19,97.09,No,,Venezuela,Maracaibo
+1200,51,31,2023-04-17,799.01,No,,Argentina,Rosario
+1201,451,6,2024-03-18,358.65,No,,Venezuela,Maracaibo
+1202,207,51,2023-10-05,895.57,No,,Mexico,Guadalajara
+1203,447,62,2024-06-29,313.04,No,,Mexico,Monterrey
+1204,52,16,2023-04-24,976.6,No,,Chile,Valparaíso
+1205,435,64,2023-08-11,800.77,No,,Argentina,Rosario
+1206,7,53,2023-11-18,37.59,No,,Mexico,Mexico City
+1207,408,90,2024-05-30,642.75,No,,Peru,Arequipa
+1208,495,3,2023-06-24,600.34,No,,Argentina,Buenos Aires
+1209,298,58,2024-05-15,313.98,No,,Peru,Lima
+1210,135,5,2024-05-24,717.25,No,,Argentina,Buenos Aires
+1211,275,42,2023-03-01,777.36,No,,Costa Rica,Cartago
+1212,390,42,2023-07-10,835.4,No,,Mexico,Mexico City
+1213,427,11,2023-05-19,369.08,No,,Costa Rica,San José
+1214,79,32,2023-09-22,143.18,No,,Venezuela,Maracaibo
+1215,63,57,2023-10-05,739.07,No,,Brazil,São Paulo
+1216,131,40,2023-10-17,557.26,No,,Mexico,Mexico City
+1217,280,97,2023-06-13,297.6,No,,Peru,Arequipa
+1218,495,73,2023-08-16,337.15,No,,Venezuela,Valencia
+1219,262,17,2023-04-13,987.99,No,,Brazil,Brasília
+1220,302,11,2023-08-21,836.76,No,,Peru,Cusco
+1221,130,47,2023-08-11,447.0,No,,Peru,Lima
+1222,489,58,2023-08-16,775.19,No,,Mexico,Mexico City
+1223,27,100,2023-11-29,304.71,No,,Mexico,Guadalajara
+1224,32,33,2024-01-15,19.75,No,,Argentina,Córdoba
+1225,339,6,2024-05-17,909.16,No,,Chile,Santiago
+1226,36,49,2023-08-10,395.99,No,,Mexico,Guadalajara
+1227,282,46,2023-11-29,390.78,No,,Colombia,Cali
+1228,393,81,2023-01-08,982.4,No,,Colombia,Bogotá
+1229,447,4,2023-04-05,566.75,No,,Mexico,Guadalajara
+1230,23,73,2023-01-26,308.8,No,,Peru,Lima
+1231,475,60,2023-10-21,523.49,No,,Uruguay,Punta del Este
+1232,465,85,2024-03-12,215.02,No,,Argentina,Córdoba
+1233,244,30,2023-02-14,517.18,No,,Colombia,Medellín
+1234,438,30,2023-04-11,210.21,No,,Uruguay,Salto
+1235,331,39,2023-10-04,646.76,No,,Colombia,Bogotá
+1236,79,65,2023-09-09,988.6,No,,Chile,Santiago
+1237,476,35,2023-07-06,353.17,No,,Costa Rica,Alajuela
+1238,231,21,2023-04-12,399.04,No,,Chile,Santiago
+1239,216,97,2023-12-27,674.84,No,,Brazil,São Paulo
+1240,49,45,2023-02-10,904.88,No,,Colombia,Cali
+1241,226,88,2024-01-18,459.2,No,,Venezuela,Caracas
+1242,34,74,2023-07-09,348.55,No,,Venezuela,Maracaibo
+1243,341,84,2023-07-17,192.39,No,,Costa Rica,Alajuela
+1244,11,91,2023-01-02,578.16,No,,Brazil,Brasília
+1245,285,36,2023-07-28,225.85,No,,Chile,Santiago
+1246,19,75,2023-07-02,200.42,No,,Brazil,Brasília
+1247,363,87,2023-10-17,608.22,No,,Mexico,Guadalajara
+1248,382,43,2023-09-25,513.05,No,,Uruguay,Salto
+1249,398,77,2024-01-01,837.25,No,,Brazil,São Paulo
+1250,47,5,2023-01-10,199.41,No,,Peru,Arequipa
+1251,125,63,2023-04-10,616.03,No,,Colombia,Bogotá
+1252,119,87,2023-02-08,338.48,No,,Colombia,Medellín
+1253,283,82,2023-02-05,136.05,No,,Brazil,Brasília
+1254,242,23,2023-06-07,680.63,No,,Uruguay,Montevideo
+1255,136,39,2023-09-26,914.96,No,,Mexico,Mexico City
+1256,89,95,2023-05-08,586.09,No,,Chile,Concepción
+1257,191,14,2023-08-24,613.22,No,,Colombia,Medellín
+1258,178,65,2023-12-17,303.28,No,,Argentina,Córdoba
+1259,141,23,2024-04-10,949.45,No,,Argentina,Rosario
+1260,219,56,2023-03-18,200.51,No,,Costa Rica,Cartago
+1261,132,87,2023-11-27,327.19,No,,Mexico,Guadalajara
+1262,373,67,2023-05-10,447.06,No,,Chile,Concepción
+1263,412,86,2024-03-25,141.47,No,,Costa Rica,Alajuela
+1264,381,77,2023-05-17,649.52,No,,Chile,Concepción
+1265,118,56,2023-06-13,496.16,No,,Venezuela,Caracas
+1266,164,64,2024-03-15,118.13,No,,Brazil,Rio de Janeiro
+1267,29,5,2023-06-17,713.77,No,,Brazil,Brasília
+1268,87,84,2024-02-27,193.02,No,,Chile,Concepción
+1269,425,10,2023-04-03,380.81,No,,Peru,Cusco
+1270,91,12,2024-06-02,109.31,No,,Venezuela,Valencia
+1271,354,65,2023-03-03,903.17,No,,Chile,Valparaíso
+1272,109,19,2023-05-09,668.87,No,,Colombia,Medellín
+1273,22,64,2023-03-11,900.67,No,,Argentina,Buenos Aires
+1274,31,62,2023-09-02,778.53,No,,Costa Rica,Cartago
+1275,100,61,2023-12-28,543.68,No,,Costa Rica,Alajuela
+1276,308,75,2024-02-01,796.96,No,,Peru,Cusco
+1277,427,74,2023-05-19,87.82,No,,Costa Rica,San José
+1278,285,67,2024-02-17,614.99,No,,Brazil,Brasília
+1279,460,76,2024-06-06,566.01,No,,Uruguay,Salto
+1280,277,86,2023-08-17,596.66,No,,Venezuela,Valencia
+1281,4,16,2023-01-26,918.78,No,,Brazil,Rio de Janeiro
+1282,457,47,2023-01-20,44.19,No,,Mexico,Guadalajara
+1283,399,83,2023-12-05,766.74,No,,Argentina,Rosario
+1284,116,82,2024-02-18,831.85,No,,Venezuela,Caracas
+1285,133,49,2023-08-18,158.13,No,,Costa Rica,Cartago
+1286,204,57,2023-01-02,594.47,No,,Colombia,Medellín
+1287,427,11,2023-09-15,294.9,No,,Mexico,Monterrey
+1288,305,68,2023-01-18,544.93,No,,Colombia,Medellín
+1289,375,4,2023-08-07,463.83,No,,Uruguay,Montevideo
+1290,426,3,2024-05-20,317.89,No,,Mexico,Guadalajara
+1291,217,13,2024-06-12,677.95,No,,Argentina,Córdoba
+1292,43,47,2023-08-03,199.17,No,,Uruguay,Salto
+1293,350,33,2024-01-14,982.59,No,,Chile,Concepción
+1294,494,46,2024-03-17,50.18,No,,Venezuela,Maracaibo
+1295,470,80,2024-01-06,195.46,No,,Peru,Lima
+1296,109,62,2024-02-16,462.3,No,,Uruguay,Montevideo
+1297,453,24,2023-07-31,534.57,No,,Uruguay,Punta del Este
+1298,19,63,2024-05-19,338.73,No,,Brazil,Rio de Janeiro
+1299,67,57,2023-01-19,50.8,No,,Costa Rica,Alajuela
+1300,204,75,2024-03-29,800.59,No,,Venezuela,Maracaibo
+1301,427,85,2023-07-01,911.05,No,,Chile,Santiago
+1302,90,38,2023-06-13,172.26,No,,Peru,Arequipa
+1303,61,25,2024-05-19,216.19,No,,Chile,Concepción
+1304,227,97,2024-01-25,264.62,No,,Uruguay,Salto
+1305,1,76,2023-05-09,366.9,No,,Chile,Concepción
+1306,18,9,2023-12-31,115.94,No,,Chile,Concepción
+1307,36,74,2023-01-23,424.05,No,,Venezuela,Caracas
+1308,116,28,2023-03-28,545.36,No,,Chile,Concepción
+1309,129,23,2024-02-01,556.34,No,,Argentina,Córdoba
+1310,65,22,2023-08-09,476.64,No,,Colombia,Medellín
+1311,193,36,2024-06-13,715.92,No,,Argentina,Rosario
+1312,190,78,2024-01-04,313.55,No,,Argentina,Buenos Aires
+1313,75,18,2024-01-06,77.99,No,,Venezuela,Valencia
+1314,194,88,2023-10-14,725.75,No,,Uruguay,Salto
+1315,220,18,2024-04-15,669.15,No,,Peru,Arequipa
+1316,373,24,2023-02-08,853.85,No,,Uruguay,Salto
+1317,140,58,2023-06-10,874.34,No,,Costa Rica,Cartago
+1318,263,1,2023-05-22,305.26,No,,Brazil,Rio de Janeiro
+1319,289,18,2023-12-26,373.45,No,,Venezuela,Caracas
+1320,304,98,2023-10-25,495.52,No,,Chile,Valparaíso
+1321,446,55,2024-02-16,636.33,No,,Venezuela,Caracas
+1322,103,10,2023-05-15,524.54,No,,Brazil,Rio de Janeiro
+1323,247,44,2024-01-04,754.41,No,,Mexico,Mexico City
+1324,17,88,2023-04-04,362.92,No,,Costa Rica,Alajuela
+1325,139,35,2023-03-10,175.41,No,,Chile,Santiago
+1326,54,65,2024-02-17,790.33,No,,Uruguay,Salto
+1327,112,41,2023-03-05,631.22,No,,Chile,Valparaíso
+1328,95,97,2024-04-07,141.19,No,,Mexico,Guadalajara
+1329,340,42,2023-11-12,883.94,No,,Uruguay,Salto
+1330,320,91,2023-06-20,846.09,No,,Colombia,Bogotá
+1331,49,71,2023-09-03,225.2,No,,Peru,Cusco
+1332,15,58,2023-01-19,80.56,No,,Peru,Lima
+1333,148,28,2023-02-18,650.85,No,,Colombia,Bogotá
+1334,474,70,2024-03-28,362.13,No,,Argentina,Buenos Aires
+1335,199,8,2024-05-29,138.94,No,,Colombia,Bogotá
+1336,456,26,2023-11-12,980.59,No,,Colombia,Cali
+1337,492,23,2023-08-06,854.55,No,,Brazil,Rio de Janeiro
+1338,342,12,2023-12-28,87.07,No,,Peru,Lima
+1339,140,73,2023-02-19,639.91,No,,Colombia,Bogotá
+1340,454,46,2023-10-17,24.65,No,,Brazil,Rio de Janeiro
+1341,188,38,2023-06-09,375.68,No,,Costa Rica,Alajuela
+1342,116,85,2023-08-21,720.55,No,,Venezuela,Maracaibo
+1343,38,33,2023-07-04,962.41,No,,Brazil,Brasília
+1344,175,57,2023-02-01,441.68,No,,Mexico,Monterrey
+1345,143,56,2023-04-08,131.0,No,,Argentina,Córdoba
+1346,81,74,2023-01-05,561.74,No,,Peru,Lima
+1347,481,85,2024-06-17,305.94,No,,Brazil,Rio de Janeiro
+1348,371,23,2024-02-06,390.44,No,,Brazil,Rio de Janeiro
+1349,194,56,2024-02-10,283.17,No,,Uruguay,Punta del Este
+1350,182,13,2023-07-06,293.2,No,,Brazil,São Paulo
+1351,162,21,2023-12-03,277.25,No,,Venezuela,Valencia
+1352,247,98,2023-11-10,120.36,No,,Uruguay,Salto
+1353,316,10,2023-03-07,510.07,No,,Chile,Concepción
+1354,396,60,2023-12-04,367.77,No,,Mexico,Monterrey
+1355,463,52,2023-03-14,218.36,No,,Chile,Concepción
+1356,49,73,2023-05-11,466.09,No,,Costa Rica,Alajuela
+1357,341,68,2024-06-26,655.92,No,,Costa Rica,Alajuela
+1358,46,58,2023-10-17,799.97,No,,Peru,Arequipa
+1359,338,18,2023-06-12,814.86,No,,Mexico,Guadalajara
+1360,191,61,2023-07-28,381.82,No,,Peru,Lima
+1361,73,35,2023-07-05,433.6,No,,Mexico,Mexico City
+1362,453,87,2024-01-16,250.92,No,,Colombia,Medellín
+1363,484,87,2023-03-04,879.62,No,,Chile,Concepción
+1364,500,66,2023-05-11,639.13,No,,Argentina,Rosario
+1365,349,60,2024-04-01,769.48,No,,Colombia,Medellín
+1366,398,9,2024-01-12,534.25,No,,Costa Rica,San José
+1367,100,37,2024-02-22,126.33,No,,Brazil,Rio de Janeiro
+1368,116,89,2023-09-20,596.66,No,,Uruguay,Salto
+1369,12,98,2024-06-10,558.54,No,,Costa Rica,Cartago
+1370,237,67,2023-06-26,391.73,No,,Argentina,Rosario
+1371,27,47,2023-06-27,31.57,No,,Argentina,Córdoba
+1372,109,35,2023-05-19,104.92,No,,Uruguay,Salto
+1373,94,31,2024-01-09,988.28,No,,Chile,Valparaíso
+1374,30,27,2023-10-11,785.59,No,,Chile,Santiago
+1375,309,46,2023-08-23,657.75,No,,Mexico,Guadalajara
+1376,338,31,2024-04-10,535.88,No,,Venezuela,Maracaibo
+1377,85,28,2023-11-10,364.42,No,,Venezuela,Maracaibo
+1378,157,71,2024-02-19,78.64,No,,Argentina,Córdoba
+1379,425,33,2024-01-25,965.69,No,,Peru,Lima
+1380,432,32,2024-03-09,834.07,No,,Colombia,Cali
+1381,358,81,2023-08-17,770.48,No,,Costa Rica,San José
+1382,176,48,2023-05-12,124.48,No,,Mexico,Monterrey
+1383,327,44,2023-01-27,838.83,No,,Venezuela,Valencia
+1384,223,21,2023-02-12,330.25,No,,Brazil,São Paulo
+1385,221,57,2023-04-05,931.97,No,,Brazil,São Paulo
+1386,47,28,2023-08-26,275.59,No,,Venezuela,Caracas
+1387,62,25,2024-01-31,170.52,No,,Brazil,Rio de Janeiro
+1388,152,68,2023-07-28,648.95,No,,Costa Rica,Cartago
+1389,365,58,2024-01-01,832.48,No,,Argentina,Córdoba
+1390,369,79,2023-10-09,339.61,No,,Peru,Arequipa
+1391,358,30,2023-01-14,452.2,No,,Costa Rica,San José
+1392,68,40,2023-08-27,736.31,No,,Argentina,Córdoba
+1393,407,72,2023-03-09,947.61,No,,Brazil,Brasília
+1394,123,60,2024-05-18,975.17,No,,Mexico,Guadalajara
+1395,482,88,2024-04-05,469.14,No,,Mexico,Mexico City
+1396,322,85,2023-07-28,817.83,No,,Brazil,São Paulo
+1397,48,42,2023-03-24,94.46,No,,Venezuela,Valencia
+1398,194,12,2024-04-25,624.33,No,,Costa Rica,San José
+1399,64,74,2023-03-06,37.01,No,,Colombia,Medellín
+1400,162,37,2024-01-13,424.56,No,,Peru,Lima
+1401,27,49,2023-05-04,510.75,No,,Chile,Concepción
+1402,454,15,2023-07-03,586.08,No,,Chile,Valparaíso
+1403,464,57,2024-06-07,479.03,No,,Venezuela,Caracas
+1404,283,67,2023-05-18,888.27,No,,Venezuela,Maracaibo
+1405,391,44,2023-07-02,433.34,No,,Colombia,Cali
+1406,304,68,2023-08-17,173.5,No,,Colombia,Medellín
+1407,226,40,2023-01-21,333.04,No,,Peru,Lima
+1408,382,82,2023-08-31,162.76,No,,Venezuela,Caracas
+1409,366,72,2023-05-22,992.57,No,,Mexico,Guadalajara
+1410,391,31,2023-04-17,102.1,No,,Venezuela,Maracaibo
+1411,314,11,2024-04-16,277.14,No,,Argentina,Córdoba
+1412,356,40,2023-03-09,143.78,No,,Chile,Valparaíso
+1413,254,98,2024-06-11,872.45,No,,Uruguay,Montevideo
+1414,471,53,2023-10-29,102.94,No,,Uruguay,Punta del Este
+1415,167,78,2024-01-11,435.67,No,,Peru,Arequipa
+1416,364,98,2023-05-07,565.58,No,,Uruguay,Punta del Este
+1417,450,24,2024-05-28,670.5,No,,Mexico,Guadalajara
+1418,123,45,2024-04-02,479.23,No,,Mexico,Mexico City
+1419,112,4,2023-07-09,424.66,No,,Costa Rica,Cartago
+1420,358,53,2024-06-03,643.83,No,,Argentina,Rosario
+1421,106,91,2023-06-09,802.21,No,,Chile,Santiago
+1422,35,24,2023-06-19,649.73,No,,Chile,Concepción
+1423,350,31,2024-05-08,151.37,No,,Chile,Concepción
+1424,327,12,2024-04-12,309.94,No,,Uruguay,Punta del Este
+1425,268,75,2023-12-08,84.29,No,,Peru,Arequipa
+1426,314,62,2023-04-28,61.57,No,,Brazil,São Paulo
+1427,361,79,2023-03-19,839.25,No,,Venezuela,Valencia
+1428,204,56,2024-05-11,929.66,No,,Argentina,Buenos Aires
+1429,387,71,2023-03-29,777.1,No,,Uruguay,Punta del Este
+1430,341,98,2023-08-07,24.1,No,,Brazil,Rio de Janeiro
+1431,359,38,2023-03-10,160.73,No,,Uruguay,Salto
+1432,101,72,2024-01-29,629.3,No,,Mexico,Monterrey
+1433,37,23,2023-03-20,381.72,No,,Mexico,Mexico City
+1434,305,34,2024-06-12,67.51,No,,Costa Rica,Alajuela
+1435,365,45,2024-04-11,27.73,No,,Venezuela,Caracas
+1436,164,51,2024-05-12,973.58,No,,Brazil,São Paulo
+1437,494,91,2023-07-30,77.54,No,,Uruguay,Punta del Este
+1438,451,34,2023-12-01,494.29,No,,Chile,Concepción
+1439,393,92,2024-04-12,148.54,No,,Costa Rica,Cartago
+1440,216,68,2023-12-23,780.45,No,,Brazil,São Paulo
+1441,116,22,2023-06-25,497.65,No,,Costa Rica,San José
+1442,180,35,2023-04-19,321.23,No,,Chile,Valparaíso
+1443,460,64,2023-03-22,658.32,No,,Uruguay,Salto
+1444,79,92,2023-04-19,489.55,No,,Venezuela,Caracas
+1445,166,90,2023-07-05,303.08,No,,Colombia,Medellín
+1446,412,96,2024-05-23,300.46,No,,Mexico,Monterrey
+1447,103,21,2023-05-12,606.83,No,,Colombia,Medellín
+1448,353,99,2023-02-20,907.82,No,,Argentina,Rosario
+1449,202,3,2024-06-28,554.26,No,,Mexico,Monterrey
+1450,44,10,2023-10-04,206.42,No,,Argentina,Buenos Aires
+1451,476,28,2023-11-02,237.98,No,,Peru,Arequipa
+1452,162,59,2024-02-04,794.79,No,,Mexico,Guadalajara
+1453,312,29,2024-02-18,582.08,No,,Venezuela,Valencia
+1454,99,25,2023-04-03,592.83,No,,Colombia,Medellín
+1455,353,5,2023-09-27,990.78,No,,Mexico,Mexico City
+1456,376,78,2023-05-20,908.69,No,,Mexico,Mexico City
+1457,206,54,2023-10-16,551.59,No,,Peru,Lima
+1458,364,76,2023-02-07,96.47,No,,Costa Rica,Cartago
+1459,122,43,2024-06-20,213.85,No,,Costa Rica,Cartago
+1460,135,38,2023-06-27,19.65,No,,Argentina,Rosario
+1461,57,17,2023-01-31,515.79,No,,Peru,Arequipa
+1462,411,86,2023-02-26,732.85,No,,Brazil,São Paulo
+1463,302,31,2023-01-29,590.82,No,,Venezuela,Caracas
+1464,351,48,2024-04-19,591.88,No,,Mexico,Guadalajara
+1465,160,29,2024-06-22,497.69,No,,Mexico,Guadalajara
+1466,112,39,2023-11-02,232.86,No,,Peru,Lima
+1467,214,28,2023-06-01,307.66,No,,Colombia,Bogotá
+1468,132,59,2023-11-17,594.84,No,,Chile,Concepción
+1469,34,38,2023-09-27,452.16,No,,Costa Rica,Cartago
+1470,443,44,2023-06-07,491.73,No,,Uruguay,Salto
+1471,379,19,2024-06-20,498.37,No,,Costa Rica,Cartago
+1472,492,4,2023-05-06,747.65,No,,Chile,Concepción
+1473,351,60,2023-10-07,952.95,No,,Brazil,Rio de Janeiro
+1474,23,72,2023-02-19,777.72,No,,Argentina,Córdoba
+1475,275,2,2023-10-11,659.78,No,,Uruguay,Punta del Este
+1476,197,54,2024-06-25,123.34,No,,Colombia,Cali
+1477,146,35,2024-06-28,797.42,No,,Colombia,Cali
+1478,478,28,2023-05-25,843.6,No,,Mexico,Mexico City
+1479,304,87,2024-04-24,621.71,No,,Uruguay,Punta del Este
+1480,49,68,2024-05-13,334.36,No,,Venezuela,Caracas
+1481,3,97,2023-09-23,865.22,No,,Costa Rica,San José
+1482,317,40,2023-08-22,5.65,No,,Costa Rica,Cartago
+1483,169,85,2023-11-04,400.46,No,,Argentina,Buenos Aires
+1484,308,84,2023-09-28,913.39,No,,Uruguay,Punta del Este
+1485,11,59,2023-05-22,571.67,No,,Uruguay,Montevideo
+1486,93,64,2024-05-28,339.74,No,,Peru,Arequipa
+1487,181,62,2023-12-11,93.8,No,,Argentina,Buenos Aires
+1488,287,38,2023-02-08,674.49,No,,Mexico,Mexico City
+1489,8,100,2023-12-23,626.74,No,,Mexico,Monterrey
+1490,39,96,2023-10-11,88.7,No,,Brazil,Brasília
+1491,355,58,2023-04-05,539.49,No,,Peru,Cusco
+1492,358,9,2023-01-28,917.2,No,,Peru,Cusco
+1493,498,35,2023-05-18,630.62,No,,Brazil,Rio de Janeiro
+1494,233,92,2023-02-02,198.79,No,,Argentina,Buenos Aires
+1495,471,34,2023-06-23,391.69,No,,Uruguay,Montevideo
+1496,130,63,2023-10-16,723.84,No,,Brazil,São Paulo
+1497,498,69,2024-06-21,511.87,No,,Brazil,Brasília
+1498,447,47,2024-01-23,433.37,No,,Venezuela,Caracas
+1499,416,76,2024-04-21,280.55,No,,Brazil,Rio de Janeiro
+1500,301,92,2023-12-17,904.42,No,,Uruguay,Montevideo
+1501,153,86,2024-03-27,244.88,Yes,Service not as described,Uruguay,Salto
+1502,378,39,2023-03-12,367.61,Yes,Service not as described,Costa Rica,Cartago
+1503,68,98,2023-11-16,93.44,Yes,Service not as described,Chile,Santiago
+1504,243,79,2024-05-21,98.52,Yes,Service not as described,Peru,Arequipa
+1505,243,50,2024-01-23,114.63,Yes,Fraudulent transaction,Argentina,Rosario
+1506,80,91,2023-04-21,588.38,Yes,Product not received,Venezuela,Caracas
+1507,284,73,2023-08-03,524.94,Yes,Fraudulent transaction,Brazil,São Paulo
+1508,396,41,2024-01-20,949.95,Yes,Product damaged,Venezuela,Maracaibo
+1509,373,37,2024-02-08,81.0,Yes,Fraudulent transaction,Mexico,Monterrey
+1510,347,34,2024-01-28,586.0,Yes,Product damaged,Uruguay,Montevideo
+1511,217,38,2023-11-14,808.21,Yes,Service not as described,Brazil,Rio de Janeiro
+1512,274,72,2023-04-23,932.17,Yes,Fraudulent transaction,Colombia,Cali
+1513,428,47,2024-04-19,280.94,Yes,Fraudulent transaction,Venezuela,Maracaibo
+1514,168,16,2023-09-28,803.57,Yes,Service not as described,Chile,Concepción
+1515,112,47,2024-02-20,65.77,Yes,Fraudulent transaction,Brazil,Brasília
+1516,67,49,2023-04-21,999.32,Yes,Service not as described,Mexico,Monterrey
+1517,142,4,2024-06-15,413.09,Yes,Fraudulent transaction,Costa Rica,Cartago
+1518,307,51,2023-10-12,790.46,Yes,Product damaged,Brazil,Rio de Janeiro
+1519,32,46,2023-06-04,223.89,Yes,Product damaged,Costa Rica,San José
+1520,254,21,2024-01-28,69.88,Yes,Product damaged,Venezuela,Valencia
+1521,72,50,2024-01-20,298.74,Yes,Product damaged,Brazil,Brasília
+1522,246,22,2023-05-15,36.29,Yes,Product not received,Brazil,Brasília
+1523,322,27,2023-03-14,402.73,Yes,Fraudulent transaction,Costa Rica,San José
+1524,104,1,2023-08-18,216.06,Yes,Fraudulent transaction,Uruguay,Salto
+1525,58,65,2024-03-02,867.4,Yes,Product damaged,Costa Rica,Alajuela
+1526,32,76,2023-04-16,167.79,Yes,Product not received,Brazil,São Paulo
+1527,100,10,2023-11-20,458.49,Yes,Fraudulent transaction,Chile,Valparaíso
+1528,186,76,2023-04-12,590.91,Yes,Product damaged,Brazil,São Paulo
+1529,318,84,2023-02-19,804.55,Yes,Fraudulent transaction,Mexico,Monterrey
+1530,442,10,2024-04-03,126.18,Yes,Service not as described,Venezuela,Maracaibo
+1531,289,43,2024-01-31,395.01,Yes,Fraudulent transaction,Argentina,Rosario
+1532,46,72,2023-10-27,746.4,Yes,Service not as described,Mexico,Mexico City
+1533,456,59,2023-01-11,515.53,Yes,Fraudulent transaction,Peru,Lima
+1534,129,49,2023-09-11,359.07,Yes,Fraudulent transaction,Mexico,Mexico City
+1535,17,95,2023-08-17,406.42,Yes,Product not received,Chile,Concepción
+1536,498,61,2024-02-07,544.1,Yes,Service not as described,Mexico,Guadalajara
+1537,386,29,2024-03-31,454.88,Yes,Service not as described,Colombia,Medellín
+1538,288,58,2023-06-08,70.85,Yes,Fraudulent transaction,Mexico,Monterrey
+1539,296,75,2023-08-10,352.25,Yes,Product not received,Peru,Cusco
+1540,384,90,2023-06-06,765.35,Yes,Product not received,Peru,Arequipa
+1541,8,84,2024-04-30,302.31,Yes,Service not as described,Venezuela,Caracas
+1542,166,18,2024-04-19,475.03,Yes,Fraudulent transaction,Colombia,Cali
+1543,406,93,2023-06-22,358.55,Yes,Fraudulent transaction,Argentina,Córdoba
+1544,350,98,2023-12-18,146.62,Yes,Product damaged,Mexico,Mexico City
+1545,220,74,2023-02-20,401.0,Yes,Service not as described,Colombia,Bogotá
+1546,152,38,2023-04-30,287.43,Yes,Product damaged,Colombia,Bogotá
+1547,427,37,2024-06-20,856.28,Yes,Fraudulent transaction,Venezuela,Caracas
+1548,176,84,2024-02-14,330.52,Yes,Product damaged,Uruguay,Montevideo
+1549,407,27,2024-05-20,20.86,Yes,Service not as described,Colombia,Medellín
+1550,444,49,2024-06-16,479.57,Yes,Service not as described,Mexico,Monterrey
+1551,136,47,2023-04-20,615.7,Yes,Product not received,Argentina,Buenos Aires
+1552,329,58,2023-02-12,753.52,Yes,Fraudulent transaction,Colombia,Cali
+1553,154,10,2023-11-01,625.74,Yes,Product damaged,Brazil,Rio de Janeiro
+1554,101,55,2024-01-25,838.56,Yes,Fraudulent transaction,Brazil,São Paulo
+1555,341,7,2023-11-04,125.59,Yes,Service not as described,Argentina,Rosario
+1556,356,41,2023-04-08,651.16,Yes,Product damaged,Peru,Lima
+1557,133,64,2023-09-17,901.54,Yes,Product not received,Colombia,Cali
+1558,84,70,2023-09-01,790.89,Yes,Product damaged,Chile,Concepción
+1559,141,57,2023-03-24,778.49,Yes,Fraudulent transaction,Argentina,Buenos Aires
+1560,313,86,2023-04-27,896.44,Yes,Service not as described,Colombia,Cali
+1561,220,52,2024-02-15,792.48,Yes,Service not as described,Argentina,Córdoba
+1562,263,49,2024-06-01,862.41,Yes,Service not as described,Argentina,Córdoba
+1563,195,35,2024-06-20,735.95,Yes,Service not as described,Peru,Arequipa
+1564,295,54,2024-01-20,890.07,Yes,Service not as described,Peru,Lima
+1565,280,73,2023-02-08,43.88,Yes,Product not received,Colombia,Bogotá
+1566,374,5,2023-06-30,82.28,Yes,Fraudulent transaction,Chile,Concepción
+1567,467,68,2024-06-30,812.26,Yes,Service not as described,Mexico,Guadalajara
+1568,466,46,2024-02-23,144.75,Yes,Service not as described,Mexico,Mexico City
+1569,267,18,2024-01-08,445.79,Yes,Product not received,Venezuela,Caracas
+1570,90,64,2023-07-01,547.57,Yes,Product damaged,Brazil,São Paulo
+1571,442,34,2024-05-27,504.01,Yes,Service not as described,Chile,Santiago
+1572,343,57,2023-06-15,623.52,Yes,Service not as described,Mexico,Guadalajara
+1573,258,84,2024-01-12,593.78,Yes,Service not as described,Uruguay,Montevideo
+1574,82,49,2023-02-24,941.85,Yes,Product not received,Argentina,Buenos Aires
+1575,176,100,2023-03-29,892.72,Yes,Product not received,Venezuela,Valencia
+1576,493,46,2024-01-10,959.77,Yes,Service not as described,Mexico,Guadalajara
+1577,215,51,2023-12-02,505.41,Yes,Product damaged,Mexico,Guadalajara
+1578,10,64,2023-12-20,693.6,Yes,Fraudulent transaction,Peru,Cusco
+1579,244,18,2024-06-04,691.85,Yes,Product damaged,Colombia,Bogotá
+1580,493,56,2023-10-17,681.77,Yes,Product damaged,Colombia,Bogotá
+1581,16,81,2024-05-23,670.44,Yes,Product damaged,Colombia,Medellín
+1582,115,27,2023-05-03,42.81,Yes,Product not received,Costa Rica,Alajuela
+1583,100,15,2023-12-22,621.4,Yes,Service not as described,Uruguay,Salto
+1584,412,42,2024-03-30,465.64,Yes,Fraudulent transaction,Peru,Arequipa
+1585,211,25,2023-06-08,900.22,Yes,Fraudulent transaction,Uruguay,Montevideo
+1586,111,1,2023-03-03,332.36,Yes,Product not received,Peru,Arequipa
+1587,320,53,2023-08-10,229.31,Yes,Service not as described,Uruguay,Punta del Este
+1588,485,76,2023-11-24,235.03,Yes,Product not received,Argentina,Buenos Aires
+1589,433,35,2024-05-30,554.34,Yes,Service not as described,Venezuela,Maracaibo
+1590,389,17,2023-06-21,367.9,Yes,Fraudulent transaction,Peru,Cusco
+1591,353,93,2024-01-25,356.85,Yes,Service not as described,Chile,Concepción
+1592,250,48,2023-12-15,423.34,Yes,Product damaged,Peru,Cusco
+1593,187,62,2023-12-06,334.7,Yes,Product not received,Brazil,Rio de Janeiro
+1594,178,3,2023-02-11,401.32,Yes,Product not received,Peru,Cusco
+1595,339,48,2023-06-17,534.14,Yes,Product damaged,Colombia,Medellín
+1596,226,18,2023-11-30,500.56,Yes,Product not received,Chile,Santiago
+1597,4,52,2023-12-09,214.25,Yes,Service not as described,Brazil,Brasília
+1598,392,54,2023-01-29,480.32,Yes,Product not received,Brazil,São Paulo
+1599,143,14,2024-01-12,68.37,Yes,Service not as described,Peru,Lima
+1600,118,44,2023-10-10,692.41,Yes,Fraudulent transaction,Uruguay,Salto
+1601,44,79,2023-12-15,563.21,Yes,Fraudulent transaction,Costa Rica,Cartago
+1602,344,81,2024-04-21,685.49,Yes,Product not received,Mexico,Mexico City
+1603,411,96,2023-11-22,530.51,Yes,Fraudulent transaction,Peru,Arequipa
+1604,81,84,2023-03-22,363.73,Yes,Service not as described,Costa Rica,San José
+1605,49,80,2024-02-14,128.7,Yes,Product not received,Costa Rica,San José
+1606,283,8,2024-06-07,478.46,Yes,Product not received,Uruguay,Salto
+1607,337,90,2023-02-28,965.62,Yes,Product damaged,Chile,Concepción
+1608,340,47,2023-10-15,167.83,Yes,Service not as described,Chile,Valparaíso
+1609,254,29,2024-01-08,523.38,Yes,Fraudulent transaction,Chile,Concepción
+1610,288,65,2023-09-23,755.04,Yes,Fraudulent transaction,Costa Rica,San José
+1611,372,97,2024-05-09,435.4,Yes,Product not received,Argentina,Rosario
+1612,420,55,2023-07-14,24.47,Yes,Fraudulent transaction,Venezuela,Caracas
+1613,240,64,2023-03-26,794.15,Yes,Fraudulent transaction,Chile,Valparaíso
+1614,187,46,2023-10-06,831.38,Yes,Product not received,Uruguay,Montevideo
+1615,354,2,2023-04-21,120.81,Yes,Service not as described,Peru,Cusco
+1616,183,28,2023-07-20,511.65,Yes,Product damaged,Chile,Santiago
+1617,156,75,2023-12-12,965.54,Yes,Service not as described,Uruguay,Punta del Este
+1618,373,38,2023-08-17,267.37,Yes,Product damaged,Colombia,Cali
+1619,95,36,2023-06-15,264.25,Yes,Fraudulent transaction,Costa Rica,Alajuela
+1620,281,23,2023-12-08,106.71,Yes,Fraudulent transaction,Colombia,Medellín
+1621,392,72,2024-02-08,364.57,Yes,Service not as described,Venezuela,Maracaibo
+1622,32,40,2024-01-15,307.66,Yes,Service not as described,Colombia,Medellín
+1623,6,21,2023-07-29,119.52,Yes,Product not received,Brazil,Rio de Janeiro
+1624,323,71,2023-10-27,668.46,Yes,Product damaged,Argentina,Córdoba
+1625,492,41,2023-03-13,749.12,Yes,Service not as described,Costa Rica,Cartago
+1626,420,42,2023-08-31,363.86,Yes,Service not as described,Mexico,Monterrey
+1627,241,59,2024-06-28,171.43,Yes,Product not received,Venezuela,Maracaibo
+1628,327,38,2023-05-01,712.86,Yes,Service not as described,Mexico,Mexico City
+1629,112,3,2023-07-27,758.97,Yes,Product not received,Colombia,Bogotá
+1630,398,92,2023-04-14,425.26,Yes,Service not as described,Chile,Santiago
+1631,248,66,2024-07-01,221.71,Yes,Fraudulent transaction,Peru,Arequipa
+1632,498,56,2024-04-26,303.16,Yes,Product damaged,Peru,Cusco
+1633,74,76,2023-02-22,364.21,Yes,Service not as described,Brazil,Brasília
+1634,253,74,2023-12-29,207.41,Yes,Service not as described,Mexico,Mexico City
+1635,266,37,2023-10-05,944.78,Yes,Fraudulent transaction,Mexico,Guadalajara
+1636,381,6,2023-06-04,687.53,Yes,Fraudulent transaction,Colombia,Cali
+1637,413,13,2024-02-29,889.13,Yes,Product damaged,Costa Rica,San José
+1638,297,30,2023-01-08,299.1,Yes,Service not as described,Venezuela,Valencia
+1639,449,96,2023-07-02,769.56,Yes,Product damaged,Argentina,Córdoba
+1640,63,63,2023-06-17,470.49,Yes,Product not received,Colombia,Bogotá
+1641,464,98,2023-05-05,901.8,Yes,Service not as described,Peru,Lima
+1642,247,42,2023-01-07,146.49,Yes,Product not received,Mexico,Mexico City
+1643,153,62,2024-03-08,325.49,Yes,Service not as described,Brazil,Rio de Janeiro
+1644,199,88,2024-03-04,425.82,Yes,Product damaged,Argentina,Córdoba
+1645,241,21,2023-04-25,466.49,Yes,Service not as described,Chile,Santiago
+1646,91,4,2023-08-02,277.34,Yes,Fraudulent transaction,Peru,Arequipa
+1647,4,60,2023-05-13,667.04,Yes,Fraudulent transaction,Peru,Lima
+1648,198,26,2024-03-30,713.66,Yes,Service not as described,Colombia,Bogotá
+1649,363,25,2024-02-19,956.1,Yes,Product not received,Costa Rica,San José
+1650,159,22,2024-04-10,377.33,Yes,Fraudulent transaction,Chile,Concepción
+1651,454,57,2024-06-09,479.42,Yes,Product damaged,Costa Rica,San José
+1652,34,91,2024-04-02,459.37,Yes,Product damaged,Brazil,Brasília
+1653,256,28,2023-06-15,39.12,Yes,Fraudulent transaction,Uruguay,Salto
+1654,469,7,2023-06-10,599.29,Yes,Service not as described,Brazil,Brasília
+1655,145,88,2024-06-11,816.1,Yes,Product damaged,Venezuela,Maracaibo
+1656,40,48,2023-11-14,471.12,Yes,Fraudulent transaction,Venezuela,Maracaibo
+1657,305,56,2023-03-25,429.51,Yes,Product not received,Brazil,São Paulo
+1658,487,99,2023-09-11,804.3,Yes,Product not received,Costa Rica,Cartago
+1659,482,22,2023-02-16,132.83,Yes,Service not as described,Uruguay,Salto
+1660,13,16,2023-10-13,121.41,Yes,Service not as described,Argentina,Buenos Aires
+1661,445,17,2023-08-26,601.1,Yes,Product damaged,Peru,Lima
+1662,277,59,2023-06-30,983.81,Yes,Product damaged,Colombia,Cali
+1663,444,60,2023-01-16,979.22,Yes,Service not as described,Peru,Arequipa
+1664,126,49,2023-11-25,911.18,Yes,Service not as described,Venezuela,Maracaibo
+1665,173,5,2023-08-17,34.94,Yes,Service not as described,Venezuela,Valencia
+1666,474,37,2023-08-04,198.47,Yes,Product damaged,Mexico,Monterrey
+1667,224,44,2023-06-09,725.11,Yes,Fraudulent transaction,Brazil,São Paulo
+1668,157,77,2023-08-02,180.59,Yes,Fraudulent transaction,Venezuela,Valencia
+1669,391,60,2023-06-29,106.52,Yes,Product damaged,Mexico,Mexico City
+1670,104,6,2024-02-26,26.84,Yes,Product not received,Costa Rica,Cartago
+1671,12,15,2024-06-30,993.2,Yes,Fraudulent transaction,Mexico,Guadalajara
+1672,469,7,2023-10-05,558.11,Yes,Service not as described,Argentina,Rosario
+1673,33,53,2024-06-22,952.26,Yes,Product not received,Costa Rica,San José
+1674,174,23,2023-06-01,922.89,Yes,Service not as described,Mexico,Monterrey
+1675,401,87,2023-12-21,369.25,Yes,Fraudulent transaction,Argentina,Córdoba
+1676,167,41,2023-02-02,218.74,Yes,Service not as described,Peru,Arequipa
+1677,466,98,2023-03-07,389.86,Yes,Product not received,Uruguay,Salto
+1678,241,28,2023-06-19,495.07,Yes,Service not as described,Chile,Santiago
+1679,42,15,2023-07-18,868.86,Yes,Service not as described,Peru,Lima
+1680,500,72,2024-01-10,215.43,Yes,Service not as described,Argentina,Rosario
+1681,300,72,2023-12-01,767.36,Yes,Product not received,Chile,Concepción
+1682,199,17,2023-05-09,557.0,Yes,Fraudulent transaction,Peru,Lima
+1683,59,63,2023-11-13,422.14,Yes,Product not received,Venezuela,Maracaibo
+1684,165,74,2023-11-21,229.42,Yes,Fraudulent transaction,Peru,Cusco
+1685,344,14,2023-03-05,270.37,Yes,Product damaged,Argentina,Rosario
+1686,281,78,2023-06-25,359.03,Yes,Service not as described,Uruguay,Punta del Este
+1687,433,73,2023-07-19,953.58,Yes,Service not as described,Chile,Santiago
+1688,9,70,2023-11-27,448.18,Yes,Product damaged,Chile,Santiago
+1689,188,22,2023-02-23,89.59,Yes,Product not received,Costa Rica,San José
+1690,383,38,2023-11-19,988.37,Yes,Product damaged,Mexico,Monterrey
+1691,463,19,2023-07-06,895.23,Yes,Fraudulent transaction,Brazil,Rio de Janeiro
+1692,375,27,2024-06-05,32.7,Yes,Product damaged,Peru,Arequipa
+1693,455,8,2024-05-27,615.89,Yes,Fraudulent transaction,Chile,Valparaíso
+1694,22,68,2023-02-16,952.85,Yes,Product damaged,Brazil,São Paulo
+1695,351,1,2024-02-14,626.31,Yes,Product damaged,Mexico,Mexico City
+1696,424,42,2023-04-03,835.8,Yes,Product not received,Argentina,Buenos Aires
+1697,427,65,2023-07-26,592.87,Yes,Fraudulent transaction,Peru,Cusco
+1698,127,88,2023-09-12,766.45,Yes,Fraudulent transaction,Costa Rica,San José
+1699,163,41,2023-04-11,977.25,Yes,Product not received,Colombia,Bogotá
+1700,364,74,2024-03-14,417.82,Yes,Product damaged,Chile,Santiago
+1701,58,51,2023-02-16,693.44,Yes,Fraudulent transaction,Mexico,Monterrey
+1702,83,95,2023-07-13,173.86,Yes,Fraudulent transaction,Uruguay,Salto
+1703,283,65,2024-05-22,735.08,Yes,Fraudulent transaction,Mexico,Guadalajara
+1704,149,22,2023-03-08,231.65,Yes,Service not as described,Brazil,São Paulo
+1705,300,19,2023-06-04,371.08,Yes,Fraudulent transaction,Uruguay,Salto
+1706,90,16,2024-02-10,276.27,Yes,Product not received,Brazil,Brasília
+1707,32,86,2024-07-01,852.64,Yes,Product not received,Colombia,Cali
+1708,408,84,2024-06-18,543.65,Yes,Product not received,Mexico,Mexico City
+1709,283,89,2024-04-24,528.31,Yes,Fraudulent transaction,Brazil,Rio de Janeiro
+1710,488,100,2023-02-15,946.21,Yes,Service not as described,Uruguay,Punta del Este
+1711,462,44,2023-07-07,984.37,Yes,Product not received,Chile,Santiago
+1712,425,8,2023-09-14,201.91,Yes,Service not as described,Chile,Santiago
+1713,5,78,2023-06-16,935.52,Yes,Service not as described,Argentina,Rosario
+1714,495,93,2023-01-25,587.57,Yes,Fraudulent transaction,Colombia,Medellín
+1715,482,26,2023-06-03,632.62,Yes,Product not received,Uruguay,Punta del Este
+1716,214,71,2023-12-01,498.47,Yes,Product not received,Brazil,Rio de Janeiro
+1717,459,81,2024-05-23,617.73,Yes,Fraudulent transaction,Brazil,São Paulo
+1718,179,52,2024-06-23,534.43,Yes,Fraudulent transaction,Chile,Concepción
+1719,182,85,2024-05-05,346.32,Yes,Fraudulent transaction,Mexico,Mexico City
+1720,357,62,2023-06-28,925.28,Yes,Product not received,Venezuela,Valencia
+1721,354,96,2023-01-30,675.57,Yes,Product not received,Colombia,Medellín
+1722,434,80,2023-09-02,330.93,Yes,Fraudulent transaction,Venezuela,Maracaibo
+1723,444,49,2023-07-06,441.58,Yes,Product damaged,Argentina,Rosario
+1724,248,57,2024-02-12,143.12,Yes,Fraudulent transaction,Costa Rica,Cartago
+1725,80,41,2023-07-27,172.35,Yes,Product not received,Brazil,Rio de Janeiro
+1726,234,4,2024-05-16,259.18,Yes,Fraudulent transaction,Venezuela,Caracas
+1727,202,62,2023-05-22,944.87,Yes,Service not as described,Costa Rica,Cartago
+1728,258,24,2023-08-23,915.01,Yes,Fraudulent transaction,Argentina,Rosario
+1729,67,53,2023-06-25,105.07,Yes,Fraudulent transaction,Colombia,Bogotá
+1730,355,30,2023-01-15,66.59,Yes,Service not as described,Chile,Santiago
+1731,380,63,2023-10-11,71.43,Yes,Service not as described,Brazil,São Paulo
+1732,490,27,2023-10-05,631.6,Yes,Service not as described,Venezuela,Maracaibo
+1733,9,36,2023-06-26,578.45,Yes,Product damaged,Peru,Lima
+1734,142,48,2023-06-02,96.79,Yes,Fraudulent transaction,Venezuela,Caracas
+1735,223,51,2024-06-23,158.82,Yes,Service not as described,Argentina,Córdoba
+1736,218,58,2024-05-12,395.0,Yes,Service not as described,Argentina,Rosario
+1737,93,33,2023-01-05,995.61,Yes,Fraudulent transaction,Uruguay,Punta del Este
+1738,429,87,2023-10-14,384.76,Yes,Fraudulent transaction,Chile,Santiago
+1739,440,16,2023-07-02,403.13,Yes,Product not received,Argentina,Buenos Aires
+1740,112,14,2023-09-09,80.61,Yes,Product not received,Chile,Concepción
+1741,425,20,2024-05-06,132.61,Yes,Product not received,Peru,Lima
+1742,164,59,2023-03-03,672.15,Yes,Fraudulent transaction,Costa Rica,San José
+1743,113,49,2023-04-23,290.28,Yes,Product not received,Peru,Cusco
+1744,453,10,2023-12-22,682.01,Yes,Product damaged,Chile,Concepción
+1745,404,58,2024-06-04,806.96,Yes,Service not as described,Chile,Valparaíso
+1746,194,37,2023-02-18,879.6,Yes,Product not received,Mexico,Mexico City
+1747,251,11,2024-02-18,688.56,Yes,Fraudulent transaction,Colombia,Bogotá
+1748,126,66,2023-11-21,726.86,Yes,Product not received,Venezuela,Valencia
+1749,348,16,2024-05-05,87.42,Yes,Fraudulent transaction,Colombia,Bogotá
+1750,109,33,2024-04-18,726.35,Yes,Fraudulent transaction,Colombia,Bogotá
+1751,253,37,2023-06-12,341.58,Yes,Fraudulent transaction,Costa Rica,Alajuela
+1752,378,85,2023-07-10,833.42,Yes,Product not received,Brazil,São Paulo
+1753,470,67,2023-07-26,970.96,Yes,Service not as described,Argentina,Buenos Aires
+1754,176,55,2023-08-25,891.19,Yes,Service not as described,Venezuela,Caracas
+1755,6,90,2023-04-19,167.92,Yes,Product not received,Brazil,Rio de Janeiro
+1756,257,83,2023-02-05,693.46,Yes,Product damaged,Argentina,Rosario
+1757,130,69,2023-05-13,812.63,Yes,Fraudulent transaction,Peru,Arequipa
+1758,266,24,2023-03-18,393.11,Yes,Product damaged,Venezuela,Valencia
+1759,1,12,2023-09-14,794.28,Yes,Product damaged,Costa Rica,San José
+1760,276,80,2023-09-16,444.64,Yes,Product damaged,Colombia,Bogotá
+1761,478,14,2023-07-27,111.55,Yes,Service not as described,Colombia,Bogotá
+1762,490,93,2023-02-20,676.45,Yes,Product not received,Colombia,Medellín
+1763,67,16,2023-05-22,882.63,Yes,Product damaged,Venezuela,Valencia
+1764,296,77,2024-06-17,905.93,Yes,Product damaged,Mexico,Monterrey
+1765,261,86,2023-09-06,951.2,Yes,Product damaged,Chile,Valparaíso
+1766,364,79,2023-08-07,706.84,Yes,Service not as described,Colombia,Bogotá
+1767,180,31,2024-06-07,915.26,Yes,Product not received,Colombia,Medellín
+1768,445,74,2023-05-17,749.69,Yes,Product damaged,Colombia,Medellín
+1769,386,51,2024-06-16,891.07,Yes,Product not received,Colombia,Cali
+1770,443,65,2023-06-04,978.21,Yes,Product damaged,Colombia,Cali
+1771,224,73,2023-10-01,850.08,Yes,Product damaged,Venezuela,Valencia
+1772,350,68,2024-01-21,15.29,Yes,Product not received,Costa Rica,Cartago
+1773,147,84,2024-02-16,581.04,Yes,Service not as described,Brazil,São Paulo
+1774,356,72,2024-01-16,650.32,Yes,Fraudulent transaction,Uruguay,Montevideo
+1775,188,18,2023-02-14,113.1,Yes,Service not as described,Argentina,Buenos Aires
+1776,291,54,2023-11-29,363.01,Yes,Fraudulent transaction,Peru,Arequipa
+1777,278,70,2024-03-09,708.34,Yes,Service not as described,Uruguay,Salto
+1778,167,63,2023-11-26,612.13,Yes,Product damaged,Chile,Valparaíso
+1779,212,67,2023-01-26,237.47,Yes,Service not as described,Peru,Cusco
+1780,230,38,2023-04-16,490.17,Yes,Product not received,Mexico,Monterrey
+1781,192,14,2024-01-24,431.79,Yes,Fraudulent transaction,Mexico,Mexico City
+1782,387,90,2023-02-09,645.21,Yes,Product damaged,Venezuela,Valencia
+1783,278,81,2023-08-04,613.64,Yes,Product damaged,Peru,Arequipa
+1784,494,44,2023-12-17,836.81,Yes,Fraudulent transaction,Argentina,Rosario
+1785,103,95,2024-03-24,821.78,Yes,Product not received,Argentina,Rosario
+1786,471,72,2023-04-28,345.59,Yes,Product not received,Chile,Concepción
+1787,481,70,2023-06-14,608.09,Yes,Service not as described,Uruguay,Montevideo
+1788,290,77,2024-03-15,235.46,Yes,Product damaged,Colombia,Cali
+1789,131,23,2023-03-07,344.42,Yes,Product not received,Costa Rica,Cartago
+1790,336,81,2023-08-11,837.85,Yes,Fraudulent transaction,Venezuela,Maracaibo
+1791,116,9,2024-01-10,469.67,Yes,Service not as described,Argentina,Buenos Aires
+1792,460,60,2023-08-11,188.62,Yes,Fraudulent transaction,Chile,Santiago
+1793,218,65,2023-08-11,511.61,Yes,Service not as described,Brazil,Brasília
+1794,198,89,2023-04-08,123.0,Yes,Fraudulent transaction,Chile,Valparaíso
+1795,404,99,2024-02-23,917.02,Yes,Fraudulent transaction,Colombia,Bogotá
+1796,95,99,2023-10-26,946.05,Yes,Service not as described,Mexico,Monterrey
+1797,252,51,2023-02-01,20.42,Yes,Fraudulent transaction,Costa Rica,San José
+1798,384,30,2024-05-11,853.83,Yes,Product damaged,Peru,Lima
+1799,480,31,2023-05-06,953.1,Yes,Fraudulent transaction,Chile,Concepción
+1800,270,7,2024-02-04,631.26,Yes,Product damaged,Chile,Santiago
+1801,251,9,2024-06-20,770.63,Yes,Product damaged,Argentina,Rosario
+1802,138,27,2023-04-27,380.12,Yes,Product damaged,Colombia,Cali
+1803,312,12,2023-12-06,372.74,Yes,Fraudulent transaction,Uruguay,Salto
+1804,290,22,2023-04-06,376.33,Yes,Service not as described,Chile,Valparaíso
+1805,385,86,2023-12-14,615.37,Yes,Product damaged,Colombia,Medellín
+1806,312,85,2023-11-06,84.2,Yes,Product not received,Argentina,Córdoba
+1807,258,69,2023-11-19,538.61,Yes,Fraudulent transaction,Uruguay,Salto
+1808,335,31,2023-01-30,762.91,Yes,Service not as described,Venezuela,Maracaibo
+1809,1,81,2023-02-24,897.47,Yes,Fraudulent transaction,Brazil,Rio de Janeiro
+1810,132,48,2023-02-21,909.34,Yes,Product damaged,Peru,Cusco
+1811,171,42,2024-04-08,256.24,Yes,Product damaged,Venezuela,Valencia
+1812,49,53,2024-03-16,711.37,Yes,Service not as described,Argentina,Rosario
+1813,338,53,2023-10-24,333.7,Yes,Service not as described,Venezuela,Maracaibo
+1814,167,91,2023-02-23,275.62,Yes,Fraudulent transaction,Peru,Arequipa
+1815,400,69,2023-05-26,37.31,Yes,Service not as described,Venezuela,Maracaibo
+1816,413,58,2023-04-09,59.7,Yes,Product damaged,Argentina,Córdoba
+1817,407,18,2023-07-30,391.46,Yes,Service not as described,Peru,Arequipa
+1818,327,53,2023-08-11,226.13,Yes,Fraudulent transaction,Mexico,Monterrey
+1819,251,69,2023-04-01,925.51,Yes,Product damaged,Chile,Concepción
+1820,337,30,2023-08-04,451.54,Yes,Product not received,Peru,Lima
+1821,233,48,2023-08-07,73.85,Yes,Product damaged,Peru,Cusco
+1822,486,84,2024-05-13,890.31,Yes,Product not received,Uruguay,Montevideo
+1823,437,58,2023-03-26,795.32,Yes,Fraudulent transaction,Mexico,Monterrey
+1824,398,2,2024-05-19,68.05,Yes,Product damaged,Peru,Lima
+1825,447,79,2023-01-12,295.61,Yes,Product damaged,Chile,Valparaíso
+1826,483,67,2023-07-27,974.46,Yes,Service not as described,Argentina,Córdoba
+1827,124,2,2023-01-14,73.14,Yes,Fraudulent transaction,Argentina,Rosario
+1828,431,100,2023-04-30,699.42,Yes,Product damaged,Chile,Santiago
+1829,88,63,2023-01-20,746.59,Yes,Fraudulent transaction,Costa Rica,Alajuela
+1830,12,39,2024-05-16,637.31,Yes,Product not received,Venezuela,Caracas
+1831,303,75,2024-01-18,870.31,Yes,Product not received,Uruguay,Salto
+1832,36,90,2024-04-09,776.17,Yes,Fraudulent transaction,Uruguay,Montevideo
+1833,129,23,2024-04-28,731.35,Yes,Fraudulent transaction,Venezuela,Valencia
+1834,414,2,2023-01-28,554.75,Yes,Product damaged,Argentina,Rosario
+1835,283,83,2023-04-01,729.74,Yes,Product damaged,Colombia,Bogotá
+1836,353,63,2024-05-20,739.04,Yes,Product not received,Peru,Cusco
+1837,428,4,2024-02-19,62.0,Yes,Fraudulent transaction,Colombia,Medellín
+1838,214,17,2023-03-02,975.61,Yes,Product not received,Brazil,Rio de Janeiro
+1839,301,64,2023-06-08,858.26,Yes,Product not received,Costa Rica,Cartago
+1840,137,62,2023-06-29,613.95,Yes,Service not as described,Costa Rica,Alajuela
+1841,418,71,2023-07-01,930.71,Yes,Fraudulent transaction,Colombia,Medellín
+1842,4,52,2023-02-22,176.41,Yes,Product damaged,Costa Rica,San José
+1843,214,57,2024-02-18,145.42,Yes,Product damaged,Uruguay,Punta del Este
+1844,374,44,2024-02-28,368.81,Yes,Service not as described,Chile,Valparaíso
+1845,338,73,2023-08-18,85.51,Yes,Product not received,Chile,Santiago
+1846,131,88,2023-09-07,586.02,Yes,Fraudulent transaction,Mexico,Mexico City
+1847,357,9,2023-12-25,445.2,Yes,Product damaged,Costa Rica,Cartago
+1848,301,49,2024-03-31,801.55,Yes,Product damaged,Colombia,Bogotá
+1849,448,78,2024-04-29,464.16,Yes,Service not as described,Mexico,Monterrey
+1850,363,7,2024-04-13,834.17,Yes,Fraudulent transaction,Brazil,São Paulo
+1851,90,28,2023-05-26,277.37,Yes,Service not as described,Mexico,Guadalajara
+1852,196,19,2023-02-09,446.97,Yes,Product damaged,Costa Rica,Cartago
+1853,29,70,2024-05-23,74.05,Yes,Product damaged,Brazil,Rio de Janeiro
+1854,313,55,2024-05-11,297.47,Yes,Fraudulent transaction,Brazil,Brasília
+1855,320,41,2023-05-03,758.0,Yes,Fraudulent transaction,Venezuela,Caracas
+1856,213,64,2024-02-23,964.68,Yes,Product damaged,Costa Rica,Cartago
+1857,252,8,2023-07-20,702.06,Yes,Product not received,Colombia,Medellín
+1858,91,22,2023-03-13,309.06,Yes,Product not received,Colombia,Bogotá
+1859,209,48,2023-01-28,945.01,Yes,Product not received,Argentina,Córdoba
+1860,188,15,2023-01-04,202.73,Yes,Product damaged,Colombia,Medellín
+1861,44,99,2023-01-30,277.26,Yes,Fraudulent transaction,Mexico,Monterrey
+1862,53,5,2024-03-23,170.18,Yes,Product not received,Mexico,Guadalajara
+1863,354,19,2024-04-04,156.08,Yes,Fraudulent transaction,Mexico,Monterrey
+1864,77,42,2024-06-13,682.45,Yes,Service not as described,Argentina,Rosario
+1865,165,5,2023-09-15,448.03,Yes,Service not as described,Brazil,São Paulo
+1866,30,69,2023-06-08,521.3,Yes,Product damaged,Argentina,Buenos Aires
+1867,252,94,2024-05-11,247.59,Yes,Product damaged,Venezuela,Maracaibo
+1868,345,35,2023-03-18,434.63,Yes,Product not received,Uruguay,Montevideo
+1869,78,45,2023-06-22,76.26,Yes,Service not as described,Venezuela,Caracas
+1870,423,48,2024-06-15,681.41,Yes,Service not as described,Uruguay,Montevideo
+1871,436,92,2023-03-20,13.78,Yes,Service not as described,Brazil,Brasília
+1872,368,89,2024-05-03,423.57,Yes,Product damaged,Colombia,Cali
+1873,134,100,2023-10-16,284.18,Yes,Product not received,Venezuela,Valencia
+1874,48,57,2024-04-03,93.68,Yes,Service not as described,Argentina,Rosario
+1875,391,4,2024-04-23,751.83,Yes,Product not received,Venezuela,Valencia
+1876,125,4,2023-05-20,253.74,Yes,Service not as described,Argentina,Rosario
+1877,418,67,2023-01-08,679.65,Yes,Product not received,Mexico,Monterrey
+1878,210,76,2023-09-05,548.98,Yes,Fraudulent transaction,Uruguay,Salto
+1879,338,11,2023-05-02,962.69,Yes,Product not received,Brazil,São Paulo
+1880,220,43,2023-11-05,175.86,Yes,Product not received,Colombia,Medellín
+1881,295,23,2023-08-01,589.36,Yes,Product damaged,Venezuela,Caracas
+1882,342,4,2023-11-18,210.28,Yes,Product damaged,Costa Rica,Cartago
+1883,449,85,2023-05-12,118.49,Yes,Service not as described,Costa Rica,San José
+1884,199,52,2023-12-04,141.32,Yes,Service not as described,Costa Rica,Cartago
+1885,469,98,2023-04-20,139.69,Yes,Service not as described,Uruguay,Salto
+1886,43,56,2023-12-27,185.49,Yes,Fraudulent transaction,Argentina,Buenos Aires
+1887,212,24,2024-06-16,466.96,Yes,Fraudulent transaction,Mexico,Monterrey
+1888,5,83,2024-02-22,239.23,Yes,Product not received,Colombia,Medellín
+1889,371,23,2023-07-26,615.06,Yes,Product not received,Chile,Santiago
+1890,247,52,2023-10-21,621.12,Yes,Product not received,Colombia,Bogotá
+1891,246,98,2023-02-01,141.25,Yes,Service not as described,Colombia,Cali
+1892,392,89,2023-07-27,487.47,Yes,Fraudulent transaction,Costa Rica,Cartago
+1893,80,97,2023-04-05,297.63,Yes,Product damaged,Uruguay,Punta del Este
+1894,452,10,2024-02-27,672.92,Yes,Product not received,Brazil,Brasília
+1895,380,89,2023-06-04,351.21,Yes,Fraudulent transaction,Mexico,Guadalajara
+1896,375,53,2024-01-16,395.18,Yes,Product not received,Mexico,Mexico City
+1897,18,89,2024-01-09,368.73,Yes,Product damaged,Costa Rica,San José
+1898,145,33,2024-04-05,590.94,Yes,Product not received,Uruguay,Montevideo
+1899,62,83,2024-06-09,720.58,Yes,Product not received,Chile,Valparaíso
+1900,167,1,2023-03-03,563.45,Yes,Product not received,Chile,Valparaíso
+1901,137,32,2023-07-16,297.43,Yes,Service not as described,Costa Rica,San José
+1902,198,1,2023-05-18,552.58,Yes,Fraudulent transaction,Venezuela,Valencia
+1903,23,16,2023-09-03,474.39,Yes,Fraudulent transaction,Argentina,Córdoba
+1904,8,37,2024-03-10,602.38,Yes,Product not received,Chile,Santiago
+1905,221,35,2023-03-24,672.1,Yes,Product damaged,Venezuela,Maracaibo
+1906,275,74,2023-10-06,739.43,Yes,Service not as described,Argentina,Córdoba
+1907,429,28,2023-02-27,7.91,Yes,Product damaged,Peru,Cusco
+1908,357,6,2023-07-01,721.16,Yes,Service not as described,Argentina,Buenos Aires
+1909,219,35,2023-11-28,842.16,Yes,Product damaged,Mexico,Guadalajara
+1910,343,43,2023-07-09,156.73,Yes,Product not received,Uruguay,Punta del Este
+1911,262,16,2023-11-19,528.27,Yes,Product not received,Peru,Arequipa
+1912,83,38,2023-01-13,43.95,Yes,Service not as described,Venezuela,Valencia
+1913,37,77,2023-08-19,398.68,Yes,Product not received,Uruguay,Montevideo
+1914,9,37,2023-03-29,449.04,Yes,Fraudulent transaction,Chile,Santiago
+1915,244,64,2023-06-19,529.71,Yes,Fraudulent transaction,Argentina,Rosario
+1916,23,9,2023-07-20,688.47,Yes,Product damaged,Colombia,Medellín
+1917,152,35,2024-04-01,941.92,Yes,Service not as described,Argentina,Buenos Aires
+1918,466,75,2023-03-22,372.1,Yes,Product damaged,Mexico,Mexico City
+1919,434,68,2023-05-02,561.6,Yes,Service not as described,Uruguay,Punta del Este
+1920,262,27,2023-10-21,490.66,Yes,Fraudulent transaction,Venezuela,Valencia
+1921,14,41,2024-03-22,417.69,Yes,Fraudulent transaction,Colombia,Bogotá
+1922,219,86,2024-06-21,244.97,Yes,Fraudulent transaction,Venezuela,Maracaibo
+1923,237,35,2024-05-13,368.96,Yes,Fraudulent transaction,Uruguay,Montevideo
+1924,116,4,2024-06-03,659.92,Yes,Service not as described,Peru,Lima
+1925,338,21,2023-09-16,418.94,Yes,Product damaged,Costa Rica,Alajuela
+1926,18,23,2024-03-28,186.83,Yes,Product damaged,Mexico,Guadalajara
+1927,278,10,2024-06-29,849.44,Yes,Fraudulent transaction,Venezuela,Caracas
+1928,496,78,2024-02-14,436.89,Yes,Fraudulent transaction,Uruguay,Montevideo
+1929,12,9,2023-08-28,192.75,Yes,Product damaged,Chile,Valparaíso
+1930,251,7,2023-06-14,814.13,Yes,Product damaged,Brazil,Brasília
+1931,401,46,2023-04-17,989.77,Yes,Fraudulent transaction,Peru,Arequipa
+1932,297,1,2023-02-19,44.82,Yes,Fraudulent transaction,Colombia,Bogotá
+1933,143,51,2023-03-17,5.19,Yes,Fraudulent transaction,Peru,Lima
+1934,281,39,2024-06-09,156.97,Yes,Product damaged,Costa Rica,Alajuela
+1935,158,51,2023-05-11,73.78,Yes,Product damaged,Brazil,Brasília
+1936,468,19,2023-06-28,659.37,Yes,Service not as described,Argentina,Buenos Aires
+1937,424,49,2024-06-15,251.15,Yes,Fraudulent transaction,Colombia,Cali
+1938,424,51,2024-01-29,142.72,Yes,Product not received,Venezuela,Caracas
+1939,408,60,2023-07-05,513.79,Yes,Fraudulent transaction,Argentina,Rosario
+1940,179,84,2024-05-02,834.1,Yes,Product not received,Mexico,Monterrey
+1941,244,47,2023-05-17,178.91,Yes,Product not received,Chile,Valparaíso
+1942,257,92,2023-05-17,496.49,Yes,Product not received,Colombia,Bogotá
+1943,10,25,2024-06-13,273.08,Yes,Fraudulent transaction,Colombia,Cali
+1944,262,73,2024-03-02,977.9,Yes,Product not received,Chile,Concepción
+1945,296,10,2023-12-31,984.4,Yes,Product not received,Mexico,Mexico City
+1946,203,12,2024-05-18,149.32,Yes,Product damaged,Argentina,Córdoba
+1947,359,56,2023-02-28,268.01,Yes,Fraudulent transaction,Colombia,Medellín
+1948,320,82,2023-03-03,941.42,Yes,Service not as described,Uruguay,Montevideo
+1949,92,65,2023-09-04,942.56,Yes,Service not as described,Uruguay,Punta del Este
+1950,16,70,2023-07-06,343.33,Yes,Product not received,Venezuela,Valencia
+1951,64,34,2024-02-28,697.98,Yes,Product damaged,Mexico,Guadalajara
+1952,456,15,2023-02-26,177.12,Yes,Service not as described,Chile,Valparaíso
+1953,274,45,2023-07-13,804.98,Yes,Service not as described,Uruguay,Salto
+1954,213,50,2023-07-01,219.14,Yes,Product damaged,Venezuela,Caracas
+1955,261,57,2023-10-18,64.29,Yes,Service not as described,Uruguay,Punta del Este
+1956,239,44,2023-11-27,149.87,Yes,Product damaged,Venezuela,Valencia
+1957,170,33,2023-02-01,793.76,Yes,Product damaged,Venezuela,Valencia
+1958,129,96,2023-12-23,928.6,Yes,Service not as described,Brazil,Brasília
+1959,463,58,2023-07-30,503.89,Yes,Fraudulent transaction,Colombia,Bogotá
+1960,465,63,2023-11-27,599.81,Yes,Product not received,Chile,Valparaíso
+1961,96,41,2023-10-06,214.03,Yes,Product not received,Argentina,Rosario
+1962,97,98,2024-02-01,444.61,Yes,Product not received,Argentina,Córdoba
+1963,386,79,2024-05-13,404.05,Yes,Service not as described,Uruguay,Salto
+1964,195,89,2023-10-10,228.29,Yes,Service not as described,Argentina,Rosario
+1965,186,2,2023-10-18,329.37,Yes,Service not as described,Chile,Valparaíso
+1966,144,64,2023-10-14,640.62,Yes,Product damaged,Argentina,Córdoba
+1967,340,71,2024-02-06,857.02,Yes,Product damaged,Colombia,Cali
+1968,238,93,2023-03-20,254.76,Yes,Fraudulent transaction,Uruguay,Punta del Este
+1969,496,81,2023-09-10,155.53,Yes,Service not as described,Mexico,Monterrey
+1970,199,57,2023-10-28,930.1,Yes,Product damaged,Argentina,Buenos Aires
+1971,437,77,2023-08-05,402.97,Yes,Service not as described,Peru,Cusco
+1972,83,22,2023-03-24,597.46,Yes,Fraudulent transaction,Peru,Lima
+1973,104,57,2023-04-22,759.69,Yes,Product damaged,Brazil,Rio de Janeiro
+1974,355,65,2024-04-01,636.83,Yes,Product damaged,Uruguay,Montevideo
+1975,391,57,2023-04-01,453.86,Yes,Product damaged,Chile,Concepción
+1976,174,69,2023-07-16,750.61,Yes,Product damaged,Uruguay,Salto
+1977,438,68,2023-05-06,68.48,Yes,Product not received,Costa Rica,Cartago
+1978,436,37,2023-06-22,140.19,Yes,Fraudulent transaction,Mexico,Mexico City
+1979,66,48,2023-07-25,270.99,Yes,Product not received,Venezuela,Valencia
+1980,233,23,2023-06-13,780.92,Yes,Product damaged,Uruguay,Montevideo
+1981,219,94,2023-09-29,202.07,Yes,Product not received,Mexico,Guadalajara
+1982,446,17,2023-02-11,622.15,Yes,Fraudulent transaction,Uruguay,Punta del Este
+1983,197,8,2024-02-12,27.19,Yes,Fraudulent transaction,Colombia,Bogotá
+1984,203,87,2024-02-29,304.16,Yes,Product damaged,Brazil,Brasília
+1985,17,85,2024-03-27,977.5,Yes,Product not received,Argentina,Rosario
+1986,158,39,2023-11-28,245.71,Yes,Product not received,Venezuela,Valencia
+1987,295,62,2023-03-26,421.85,Yes,Fraudulent transaction,Mexico,Guadalajara
+1988,311,19,2024-04-21,772.97,Yes,Product damaged,Uruguay,Montevideo
+1989,323,34,2023-08-17,651.81,Yes,Product not received,Mexico,Guadalajara
+1990,385,25,2024-01-27,579.68,Yes,Fraudulent transaction,Brazil,São Paulo
+1991,77,55,2024-06-10,721.6,Yes,Fraudulent transaction,Uruguay,Salto
+1992,272,3,2023-10-11,413.14,Yes,Service not as described,Venezuela,Caracas
+1993,492,95,2023-05-06,42.97,Yes,Product not received,Chile,Concepción
+1994,396,85,2023-05-07,852.97,Yes,Product not received,Peru,Arequipa
+1995,14,25,2024-04-05,678.13,Yes,Fraudulent transaction,Brazil,Brasília
+1996,134,88,2023-04-06,178.01,Yes,Product damaged,Mexico,Mexico City
+1997,480,32,2023-12-30,440.12,Yes,Product not received,Mexico,Monterrey
+1998,54,97,2023-10-06,586.38,Yes,Product damaged,Chile,Concepción
+1999,89,38,2023-06-16,971.24,Yes,Fraudulent transaction,Peru,Lima
+2000,125,50,2023-06-25,277.55,Yes,Product damaged,Brazil,Rio de Janeiro
